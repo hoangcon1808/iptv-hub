@@ -1,15 +1,15 @@
 [
   {
     "name": "General",
-    "count": 2913
+    "count": 2906
   },
   {
     "name": "News",
-    "count": 539
+    "count": 535
   },
   {
     "name": "Entertainment",
-    "count": 424
+    "count": 427
   },
   {
     "name": "Religious",
@@ -17,11 +17,11 @@
   },
   {
     "name": "Music",
-    "count": 413
+    "count": 416
   },
   {
     "name": "Italy",
-    "count": 190
+    "count": 187
   },
   {
     "name": "Sports",
@@ -29,51 +29,59 @@
   },
   {
     "name": "Kids",
-    "count": 150
+    "count": 152
   },
   {
     "name": "Legislative",
-    "count": 102
+    "count": 101
   },
   {
     "name": "Education",
-    "count": 91
-  },
-  {
-    "name": "Culture",
-    "count": 67
+    "count": 89
   },
   {
     "name": "Documentary",
-    "count": 65
+    "count": 68
+  },
+  {
+    "name": "Culture",
+    "count": 63
   },
   {
     "name": "Business",
-    "count": 45
+    "count": 48
   },
   {
     "name": "Shop",
-    "count": 43
+    "count": 44
+  },
+  {
+    "name": "Greece",
+    "count": 34
+  },
+  {
+    "name": "Travel",
+    "count": 24
   },
   {
     "name": "Outdoor",
     "count": 23
   },
   {
-    "name": "Travel",
+    "name": "Cooking",
     "count": 23
   },
   {
-    "name": "Cooking",
-    "count": 22
+    "name": "Hungary",
+    "count": 16
   },
   {
-    "name": "Greece",
+    "name": "Finland",
     "count": 16
   },
   {
     "name": "Classic",
-    "count": 16
+    "count": 13
   },
   {
     "name": "Russia",
@@ -84,11 +92,15 @@
     "count": 12
   },
   {
-    "name": "Hungary",
-    "count": 10
+    "name": "Germany",
+    "count": 11
   },
   {
     "name": "Auto",
+    "count": 9
+  },
+  {
+    "name": "Weather",
     "count": 9
   },
   {
@@ -96,15 +108,11 @@
     "count": 9
   },
   {
-    "name": "Germany",
-    "count": 8
-  },
-  {
-    "name": "Weather",
+    "name": "Spain",
     "count": 7
   },
   {
-    "name": "Spain",
+    "name": "Portugal",
     "count": 7
   },
   {
@@ -113,10 +121,6 @@
   },
   {
     "name": "North Macedonia",
-    "count": 6
-  },
-  {
-    "name": "Portugal",
     "count": 6
   },
   {
@@ -129,6 +133,10 @@
   },
   {
     "name": "Turkey",
+    "count": 4
+  },
+  {
+    "name": "Estonia",
     "count": 4
   },
   {
@@ -160,6 +168,10 @@
     "count": 3
   },
   {
+    "name": "Czech Republic",
+    "count": 3
+  },
+  {
     "name": "UK",
     "count": 3
   },
@@ -188,11 +200,7 @@
     "count": 2
   },
   {
-    "name": "Latvia",
-    "count": 2
-  },
-  {
-    "name": "Czech Republic",
+    "name": "Egypt",
     "count": 2
   },
   {
@@ -268,6 +276,10 @@
     "count": 1
   },
   {
+    "name": "Venezuela",
+    "count": 1
+  },
+  {
     "name": "Relax",
     "count": 1
   },
@@ -300,11 +312,15 @@
     "count": 1
   },
   {
-    "name": "Egypt",
+    "name": "Belarus",
     "count": 1
   },
   {
-    "name": "Belarus",
+    "name": "Faroe Islands",
+    "count": 1
+  },
+  {
+    "name": "Latvia",
     "count": 1
   },
   {
