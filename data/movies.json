@@ -1,20 +1,6 @@
 [
   {
-    "id": 5869,
-    "name": "13 Teleseries (720p)",
-    "logo": "https://i.imgur.com/csBNi2L.png",
-    "country": "CL",
-    "countryName": "Chile",
-    "flag": "🇨🇱",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8",
-    "premium": false,
-    "resolution": "1080p",
-    "bandwidth": 4784542
-  },
-  {
-    "id": 5870,
+    "id": 3790,
     "name": "24 Hour Free Movies (720p)",
     "logo": "https://i.imgur.com/iSVnzR1.png",
     "country": "US",
@@ -28,49 +14,7 @@
     "bandwidth": 2400000
   },
   {
-    "id": 5871,
-    "name": "48 Hours (1080p)",
-    "logo": "https://images.pluto.tv/channels/6176f39e709f160007ec61c3/colorLogoPNG.png",
-    "country": "US",
-    "countryName": "United States",
-    "flag": "🇺🇸",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://dai.google.com/linear/hls/event/JUr94WL2QAiVpGNHY5n5dA/master.m3u8",
-    "premium": false,
-    "resolution": "1080p",
-    "bandwidth": 5859480
-  },
-  {
-    "id": 5872,
-    "name": "&flix HD (1080p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX/images/LOGO_HD/LOGO_HD_image.png",
-    "country": "IN",
-    "countryName": "India",
-    "flag": "🇮🇳",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "http://103.72.101.252:8080/live/1322.m3u8",
-    "premium": false,
-    "resolution": "1080p",
-    "bandwidth": 2790000
-  },
-  {
-    "id": 5873,
-    "name": "&pictures HD (1080p)",
-    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022J67R.png?lock=720x540",
-    "country": "IN",
-    "countryName": "India",
-    "flag": "🇮🇳",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "http://103.72.101.252:8080/live/185.m3u8",
-    "premium": false,
-    "resolution": "1080p",
-    "bandwidth": 2790000
-  },
-  {
-    "id": 5874,
+    "id": 3791,
     "name": "&TV (576p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png",
     "country": "IN",
@@ -81,10 +25,10 @@
     "url": "http://103.229.254.25:7001/play/a09v/index.m3u8",
     "premium": false,
     "resolution": "Unknown",
-    "bandwidth": 1553000
+    "bandwidth": 1557000
   },
   {
-    "id": 5875,
+    "id": 3792,
     "name": "&TV HD (1080p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png",
     "country": "IN",
@@ -95,24 +39,10 @@
     "url": "http://103.229.254.25:7001/play/a034/index.m3u8",
     "premium": false,
     "resolution": "1080p",
-    "bandwidth": 5071000
+    "bandwidth": 3742000
   },
   {
-    "id": 5876,
-    "name": "&TV International (1080p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png",
-    "country": "IN",
-    "countryName": "India",
-    "flag": "🇮🇳",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8",
-    "premium": false,
-    "resolution": "1080p",
-    "bandwidth": 4945600
-  },
-  {
-    "id": 5877,
+    "id": 3793,
     "name": "ABN Bible Movies (720p)",
     "logo": "https://i.imgur.com/NCqZdaL.png",
     "country": "US",
@@ -126,21 +56,7 @@
     "bandwidth": null
   },
   {
-    "id": 5878,
-    "name": "Action 24 (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/88/Action24-logo-small.png",
-    "country": "GR",
-    "countryName": "Greece",
-    "flag": "🇬🇷",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8",
-    "premium": false,
-    "resolution": "1080p",
-    "bandwidth": 5329698
-  },
-  {
-    "id": 5879,
+    "id": 3794,
     "name": "Aflam (1080p)",
     "logo": "https://i.imgur.com/cTLj7Yt.png",
     "country": "SA",
@@ -154,7 +70,7 @@
     "bandwidth": 7333040
   },
   {
-    "id": 5880,
+    "id": 3795,
     "name": "Afra Film",
     "logo": "",
     "country": "IR",
@@ -168,21 +84,7 @@
     "bandwidth": null
   },
   {
-    "id": 5881,
-    "name": "Afra Series",
-    "logo": "",
-    "country": "IR",
-    "countryName": "Iran",
-    "flag": "🇮🇷",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://afrashls.wns.live/hls/stream.m3u8",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": null
-  },
-  {
-    "id": 5882,
+    "id": 3796,
     "name": "Afriwood Blockbuster (720p)",
     "logo": "https://i.imgur.com/aESdqiB.png",
     "country": "ZA",
@@ -193,38 +95,10 @@
     "url": "https://streamdot.broadpeak.io/cff02a74da64d145c102a2d012758398/afxpstr/AfriwoodBlockbuster/index.m3u8",
     "premium": false,
     "resolution": "720p",
-    "bandwidth": 4240000
+    "bandwidth": 4390000
   },
   {
-    "id": 5883,
-    "name": "Alankar TV (720p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ALANKAR/images/LOGO_HD/image.png",
-    "country": "IN",
-    "countryName": "India",
-    "flag": "🇮🇳",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://livetv.tarangplus.in/alankar-origin/live/playlist.m3u8",
-    "premium": false,
-    "resolution": "720p",
-    "bandwidth": 1807118
-  },
-  {
-    "id": 5884,
-    "name": "Alien Nation by DUST (1080p)",
-    "logo": "https://i.imgur.com/FxYhME9.png",
-    "country": "US",
-    "countryName": "United States",
-    "flag": "🇺🇸",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://dqi7ayt2o24fn.cloudfront.net/playlist.m3u8",
-    "premium": false,
-    "resolution": "1080p",
-    "bandwidth": 4909291
-  },
-  {
-    "id": 5885,
+    "id": 3797,
     "name": "All Weddings We TV (720p) [Geo-blocked]",
     "logo": "https://i.imgur.com/OjLCew5.png",
     "country": "US",
@@ -238,7 +112,7 @@
     "bandwidth": 3072000
   },
   {
-    "id": 5886,
+    "id": 3798,
     "name": "Always Funny Videos (720p)",
     "logo": "https://i.imgur.com/vfdN5Xl.png",
     "country": "US",
@@ -252,7 +126,21 @@
     "bandwidth": 3193687
   },
   {
-    "id": 5887,
+    "id": 3799,
+    "name": "AMC Latin America (1280p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",
+    "country": "US",
+    "countryName": "United States",
+    "flag": "🇺🇸",
+    "language": "Unknown",
+    "category": "Movies",
+    "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-76.playlist.m3u8",
+    "premium": false,
+    "resolution": "720p",
+    "bandwidth": 4000000
+  },
+  {
+    "id": 3800,
     "name": "Amedia Hit (720p)",
     "logo": "https://i.imgur.com/a8ZBGBw.png",
     "country": "RU",
@@ -263,10 +151,10 @@
     "url": "http://31.148.48.15/Amedia_HIT_HD/index.m3u8",
     "premium": false,
     "resolution": "720p",
-    "bandwidth": 5510000
+    "bandwidth": 5390000
   },
   {
-    "id": 5888,
+    "id": 3801,
     "name": "Amedia Premium (720p)",
     "logo": "https://i.imgur.com/UUjehw9.png",
     "country": "RU",
@@ -277,10 +165,10 @@
     "url": "http://31.148.48.15/Amedia_Premium_HD/index.m3u8",
     "premium": false,
     "resolution": "720p",
-    "bandwidth": 5520000
+    "bandwidth": 5420000
   },
   {
-    "id": 5889,
+    "id": 3802,
     "name": "Antiques Roadshow PBS (1080p)",
     "logo": "https://i.imgur.com/U9CYaok.png",
     "country": "US",
@@ -294,7 +182,7 @@
     "bandwidth": 6046040
   },
   {
-    "id": 5890,
+    "id": 3803,
     "name": "Antiques Roadshow UK (1080p)",
     "logo": "https://i.imgur.com/rKWLv48.png",
     "country": "US",
@@ -308,21 +196,7 @@
     "bandwidth": 4403200
   },
   {
-    "id": 5891,
-    "name": "Are we there Yet? (1080p) [Geo-blocked]",
-    "logo": "https://i.imgur.com/3BJQiHP.png",
-    "country": "US",
-    "countryName": "United States",
-    "flag": "🇺🇸",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-arewethereyetnl-samsungnl/playlist.m3u8",
-    "premium": false,
-    "resolution": "1080p",
-    "bandwidth": 6046040
-  },
-  {
-    "id": 5892,
+    "id": 3804,
     "name": "Artflix Movie Classics (720p)",
     "logo": "https://i.imgur.com/5pOZQB4.png",
     "country": "US",
@@ -336,21 +210,7 @@
     "bandwidth": 3072000
   },
   {
-    "id": 5893,
-    "name": "At Home with Family Handyman (720p)",
-    "logo": "https://i.imgur.com/WfKlGbX.png",
-    "country": "US",
-    "countryName": "United States",
-    "flag": "🇺🇸",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://d1ik2p49apxqjf.cloudfront.net/playlist.m3u8",
-    "premium": false,
-    "resolution": "720p",
-    "bandwidth": 3193687
-  },
-  {
-    "id": 5894,
+    "id": 3805,
     "name": "Atrescine (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/960px-Atrescine_logo.svg.png",
     "country": "ES",
@@ -361,10 +221,10 @@
     "url": "http://181.114.57.246:4000/play/KgkA9tT2SpLYm86J/index.m3u8",
     "premium": false,
     "resolution": "1080p",
-    "bandwidth": 6299000
+    "bandwidth": 5764000
   },
   {
-    "id": 5895,
+    "id": 3806,
     "name": "Aurora Media Films (720p)",
     "logo": "https://i.imgur.com/DVC5w6H.png",
     "country": "GT",
@@ -378,7 +238,7 @@
     "bandwidth": null
   },
   {
-    "id": 5896,
+    "id": 3807,
     "name": "AVA Series",
     "logo": "https://i.imgur.com/8AfAfZE.png",
     "country": "IR",
@@ -392,7 +252,7 @@
     "bandwidth": null
   },
   {
-    "id": 5897,
+    "id": 3808,
     "name": "AWTV (1080p) [Geo-blocked]",
     "logo": "https://i.imgur.com/2tdMyef.png",
     "country": "BR",
@@ -406,7 +266,7 @@
     "bandwidth": null
   },
   {
-    "id": 5898,
+    "id": 3809,
     "name": "B4U Bhojpuri (1080p)",
     "logo": "https://i.imgur.com/NwOQUDp.png",
     "country": "IN",
@@ -420,7 +280,7 @@
     "bandwidth": 4000000
   },
   {
-    "id": 5899,
+    "id": 3810,
     "name": "B4U Kadak (1080p) [Not 24/7]",
     "logo": "https://dtil.tmsimg.com/assets/s142695_ld_h15_aa.png?lock=720x540",
     "country": "IN",
@@ -434,7 +294,7 @@
     "bandwidth": 4000000
   },
   {
-    "id": 5900,
+    "id": 3811,
     "name": "B4U Movies India (1080p)",
     "logo": "https://i.imgur.com/M9kMFJl.png",
     "country": "IN",
@@ -448,7 +308,7 @@
     "bandwidth": 4000000
   },
   {
-    "id": 5901,
+    "id": 3812,
     "name": "Bab Al Hara (1080p)",
     "logo": "https://i.imgur.com/QtlnZbq.png",
     "country": "SA",
@@ -462,7 +322,7 @@
     "bandwidth": 8912934
   },
   {
-    "id": 5902,
+    "id": 3813,
     "name": "Baywatch (1080p)",
     "logo": "https://i.imgur.com/c2esKHg.png",
     "country": "US",
@@ -476,7 +336,7 @@
     "bandwidth": 6046040
   },
   {
-    "id": 5903,
+    "id": 3814,
     "name": "BBC Doctor Who Classic (1080p)",
     "logo": "https://i.imgur.com/JIqJQQM.png",
     "country": "US",
@@ -490,7 +350,7 @@
     "bandwidth": 4403200
   },
   {
-    "id": 5904,
+    "id": 3815,
     "name": "BBC Drama (1080p)",
     "logo": "https://i.imgur.com/HctHhLL.png",
     "country": "UK",
@@ -504,7 +364,7 @@
     "bandwidth": 6046040
   },
   {
-    "id": 5905,
+    "id": 3816,
     "name": "Bhojpuri Cinema (720p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BHOJPURI_CINEMA/images/LOGO_HD/image.png",
     "country": "IN",
@@ -518,21 +378,7 @@
     "bandwidth": 3072000
   },
   {
-    "id": 5906,
-    "name": "BIZ Cinema (1080p)",
-    "logo": "https://biztv.uz/static/media/biz-cinema.286b83dc.png",
-    "country": "UZ",
-    "countryName": "Uzbekistan",
-    "flag": "🇺🇿",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/index.m3u8",
-    "premium": false,
-    "resolution": "720p",
-    "bandwidth": 1800000
-  },
-  {
-    "id": 5907,
+    "id": 3817,
     "name": "Bollywood HD Russia (576p)",
     "logo": "https://i.imgur.com/scDKOLS.png",
     "country": "RO",
@@ -546,21 +392,7 @@
     "bandwidth": 4716800
   },
   {
-    "id": 5908,
-    "name": "Boreal (720p) [Not 24/7]",
-    "logo": "https://i.imgur.com/KSquHTG.png",
-    "country": "DO",
-    "countryName": "Dominican Republic",
-    "flag": "🇩🇴",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://edge.essastream.com/borealtelevision/tracks-v1a1/mono.m3u8",
-    "premium": false,
-    "resolution": "720p",
-    "bandwidth": null
-  },
-  {
-    "id": 5909,
+    "id": 3818,
     "name": "Cafe Film",
     "logo": "",
     "country": "IR",
@@ -574,7 +406,7 @@
     "bandwidth": null
   },
   {
-    "id": 5910,
+    "id": 3819,
     "name": "Celebrity Name Game (1080p) [Geo-blocked]",
     "logo": "https://provider-static.plex.tv/epg/cms/production/773232e1-5c36-490b-922e-e5be8ec12eb2/celebrityd5796a3e14bf45513f7b3071b90d030.png",
     "country": "US",
@@ -588,7 +420,7 @@
     "bandwidth": 8048040
   },
   {
-    "id": 5911,
+    "id": 3820,
     "name": "Celestial Movies (576i)",
     "logo": "https://i.imgur.com/Mb5ssnu.png",
     "country": "HK",
@@ -602,7 +434,7 @@
     "bandwidth": null
   },
   {
-    "id": 5912,
+    "id": 3821,
     "name": "Charge! (1080p)",
     "logo": "https://i.imgur.com/1rxmu2u.png",
     "country": "US",
@@ -616,7 +448,7 @@
     "bandwidth": 6074349
   },
   {
-    "id": 5913,
+    "id": 3822,
     "name": "Choppertown (720p)",
     "logo": "https://i.imgur.com/U6cu5Ms.png",
     "country": "US",
@@ -630,49 +462,21 @@
     "bandwidth": 3193687
   },
   {
-    "id": 5914,
-    "name": "Cine Romantico (720p)",
-    "logo": "https://i.imgur.com/FUrrDrb.png",
+    "id": 3823,
+    "name": "Cinecanal South (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png",
     "country": "US",
     "countryName": "United States",
     "flag": "🇺🇸",
     "language": "Unknown",
     "category": "Movies",
-    "url": "https://d1si3n1st4nkgb.cloudfront.net/10502/88886011/hls/master.m3u8?ads.xumo_channelId=88886011",
+    "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-62.playlist.m3u8",
     "premium": false,
     "resolution": "720p",
-    "bandwidth": 5000000
+    "bandwidth": 4000000
   },
   {
-    "id": 5915,
-    "name": "Cine Sony (720p)",
-    "logo": "https://i.imgur.com/bZWoDTg.png",
-    "country": "US",
-    "countryName": "United States",
-    "flag": "🇺🇸",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8",
-    "premium": false,
-    "resolution": "720p",
-    "bandwidth": 3910860
-  },
-  {
-    "id": 5916,
-    "name": "Cinema (1080p)",
-    "logo": "https://i.imgur.com/yib6dM2.png",
-    "country": "MN",
-    "countryName": "Mongolia",
-    "flag": "🇲🇳",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://cdn4.skygo.mn/live/disk1/CinemaTV/DASH-FTA/CinemaTV.mpd",
-    "premium": false,
-    "resolution": "1080p",
-    "bandwidth": null
-  },
-  {
-    "id": 5917,
+    "id": 3824,
     "name": "Cinema Hausa (720p)",
     "logo": "https://i.imgur.com/uV5cHDW.png",
     "country": "ZA",
@@ -683,24 +487,10 @@
     "url": "https://streamdot.broadpeak.io/cff02a74da64d1459eeb779df71f0511/afxpstr/CinemaHausa/index.m3u8",
     "premium": false,
     "resolution": "720p",
-    "bandwidth": 4480000
+    "bandwidth": 4470000
   },
   {
-    "id": 5918,
-    "name": "Cinema One (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/960px-Cinema_One_2013_logo.svg.png",
-    "country": "PH",
-    "countryName": "Philippines",
-    "flag": "🇵🇭",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemaone-dash-abscbnono/index.mpd",
-    "premium": false,
-    "resolution": "1080p",
-    "bandwidth": null
-  },
-  {
-    "id": 5919,
+    "id": 3825,
     "name": "CineMo (1080p)",
     "logo": "https://i.imgur.com/rGAOD3f.png",
     "country": "PH",
@@ -714,7 +504,7 @@
     "bandwidth": null
   },
   {
-    "id": 5920,
+    "id": 3826,
     "name": "Classique TV (360p)",
     "logo": "https://i.imgur.com/rHxcraT.png",
     "country": "BR",
@@ -728,7 +518,7 @@
     "bandwidth": null
   },
   {
-    "id": 5921,
+    "id": 3827,
     "name": "CNBC-e",
     "logo": "https://s.cnbce.com/dist/images/logo-nav.png",
     "country": "TR",
@@ -742,7 +532,7 @@
     "bandwidth": 2000000
   },
   {
-    "id": 5922,
+    "id": 3828,
     "name": "Cold Case Files (1080p)",
     "logo": "https://i.imgur.com/mowSfj6.png",
     "country": "US",
@@ -756,21 +546,7 @@
     "bandwidth": 5252412
   },
   {
-    "id": 5923,
-    "name": "Colors Cineplex HD (1080p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_HD/images/LOGO_HD/image.png",
-    "country": "IN",
-    "countryName": "India",
-    "flag": "🇮🇳",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "http://103.72.101.252:8080/live/1477.m3u8",
-    "premium": false,
-    "resolution": "1080p",
-    "bandwidth": 2790000
-  },
-  {
-    "id": 5924,
+    "id": 3829,
     "name": "COPS",
     "logo": "https://i.imgur.com/J3XO6V2.png",
     "country": "US",
@@ -784,7 +560,7 @@
     "bandwidth": 3072000
   },
   {
-    "id": 5925,
+    "id": 3830,
     "name": "Cops (720p)",
     "logo": "https://i.imgur.com/J3XO6V2.png",
     "country": "US",
@@ -798,7 +574,7 @@
     "bandwidth": 3072000
   },
   {
-    "id": 5926,
+    "id": 3831,
     "name": "Dark Matter TV (720p)",
     "logo": "https://i.imgur.com/9K8T3ND.png",
     "country": "US",
@@ -812,7 +588,7 @@
     "bandwidth": 3072000
   },
   {
-    "id": 5927,
+    "id": 3832,
     "name": "Deal or No Deal (1080p)",
     "logo": "https://i.imgur.com/lZvNXA1.png",
     "country": "US",
@@ -826,7 +602,7 @@
     "bandwidth": 6046040
   },
   {
-    "id": 5928,
+    "id": 3833,
     "name": "Degrassi (720p)",
     "logo": "https://i.imgur.com/vhSzfDC.png",
     "country": "US",
@@ -840,21 +616,7 @@
     "bandwidth": 3072000
   },
   {
-    "id": 5929,
-    "name": "Designated Survivor (1080p) [Geo-blocked]",
-    "logo": "https://provider-static.plex.tv/epg/cms/production/6f31f52b-2b65-49eb-91e5-52e07edd1927/DesignatedSurvivor_Plex_1500x1000_Logo_Dark.png",
-    "country": "US",
-    "countryName": "United States",
-    "flag": "🇺🇸",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://amg00353-amg00353c40-xumo-us-4839.playouts.now.amagi.tv/playlist.m3u8",
-    "premium": false,
-    "resolution": "1080p",
-    "bandwidth": 8048040
-  },
-  {
-    "id": 5930,
+    "id": 3834,
     "name": "DiscoverFilm",
     "logo": "https://i.imgur.com/oMnpsQ5.png",
     "country": "UK",
@@ -868,7 +630,7 @@
     "bandwidth": 3072000
   },
   {
-    "id": 5931,
+    "id": 3835,
     "name": "Dog the Bounty Hunter (1080p)",
     "logo": "https://i.imgur.com/lMICupK.png",
     "country": "US",
@@ -882,7 +644,7 @@
     "bandwidth": 5701132
   },
   {
-    "id": 5932,
+    "id": 3836,
     "name": "Dog The Bounty Hunter [Geo-blocked] (1080p)",
     "logo": "https://i.imgur.com/lMICupK.png",
     "country": "US",
@@ -896,7 +658,7 @@
     "bandwidth": 5701132
   },
   {
-    "id": 5933,
+    "id": 3837,
     "name": "Dog Whisperer (1080p) [Geo-blocked]",
     "logo": "https://i.imgur.com/tgWypVJ.png",
     "country": "US",
@@ -910,7 +672,7 @@
     "bandwidth": 6046040
   },
   {
-    "id": 5934,
+    "id": 3838,
     "name": "Don't Tell The Bride (1080p)",
     "logo": "https://i.imgur.com/h0bc3Fa.png",
     "country": "UK",
@@ -924,7 +686,35 @@
     "bandwidth": 6046040
   },
   {
-    "id": 5935,
+    "id": 3839,
+    "name": "Duck Dynasty (1080p)",
+    "logo": "https://i.imgur.com/vMcSlwm.png",
+    "country": "US",
+    "countryName": "United States",
+    "flag": "🇺🇸",
+    "language": "Unknown",
+    "category": "Movies",
+    "url": "https://amg00276-amg00276c2-rakuten-uk-3449.playouts.now.amagi.tv/playlist.m3u8",
+    "premium": false,
+    "resolution": "1080p",
+    "bandwidth": 5701132
+  },
+  {
+    "id": 3840,
+    "name": "Duck Dynasty (1080p)",
+    "logo": "https://i.imgur.com/vMcSlwm.png",
+    "country": "US",
+    "countryName": "United States",
+    "flag": "🇺🇸",
+    "language": "Unknown",
+    "category": "Movies",
+    "url": "https://aegis-cloudfront-1.tubi.video/ae3cd8ce-3c41-452b-92a0-78fdb3c5b855/playlist.m3u8",
+    "premium": false,
+    "resolution": "1080p",
+    "bandwidth": 5701132
+  },
+  {
+    "id": 3841,
     "name": "Ebony TV by Lionsgate (1080p)",
     "logo": "https://provider-static.plex.tv/epg/cms/production/234d5377-ab07-41bf-acd6-34c17c1c051a/EbonyTV_Plex_Logo_Light_1500x1000.png",
     "country": "XX",
@@ -938,7 +728,7 @@
     "bandwidth": 8048040
   },
   {
-    "id": 5936,
+    "id": 3842,
     "name": "EBS Cinema (720p)",
     "logo": "https://i.imgur.com/fewPTFE.png",
     "country": "US",
@@ -949,10 +739,10 @@
     "url": "https://rpn.bozztv.com/ebstv/ebscinema/index.m3u8",
     "premium": false,
     "resolution": "720p",
-    "bandwidth": 1580000
+    "bandwidth": 1500000
   },
   {
-    "id": 5937,
+    "id": 3843,
     "name": "Eisei Gekijo (544p)",
     "logo": "https://yt3.googleusercontent.com/d5yMuTHpdKEjTqXDEnS-iYo_AaKwuwYtHRs3gbLB9Hg8j_XtXyUXOeKxetptLhz85SciuA5i=s512-c-k-c0x00ffffff-no-rj",
     "country": "JP",
@@ -963,10 +753,10 @@
     "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22",
     "premium": false,
     "resolution": "Unknown",
-    "bandwidth": 1289413
+    "bandwidth": 1272129
   },
   {
-    "id": 5938,
+    "id": 3844,
     "name": "Ekran Movies",
     "logo": "https://i.ibb.co/WNyssx28/Screenshot-2025-05-18-211143.png",
     "country": "IR",
@@ -980,7 +770,7 @@
     "bandwidth": null
   },
   {
-    "id": 5939,
+    "id": 3845,
     "name": "ETV Cinema HD (1080p)",
     "logo": "https://dtil.tmsimg.com/assets/s143026_ld_h15_aa.png?lock=720x540",
     "country": "IN",
@@ -994,7 +784,7 @@
     "bandwidth": 2890862
   },
   {
-    "id": 5940,
+    "id": 3846,
     "name": "FAN (1080p)",
     "logo": "https://i.imgur.com/mDeTbaF.png",
     "country": "RU",
@@ -1005,10 +795,10 @@
     "url": "http://31.148.48.15/Fan/index.m3u8",
     "premium": false,
     "resolution": "1080p",
-    "bandwidth": 5280000
+    "bandwidth": 5610000
   },
   {
-    "id": 5941,
+    "id": 3847,
     "name": "Fear Factor (1080p)",
     "logo": "https://i.imgur.com/CIYnLWz.png",
     "country": "US",
@@ -1022,7 +812,7 @@
     "bandwidth": 6046040
   },
   {
-    "id": 5942,
+    "id": 3848,
     "name": "Filamchi Bhojpuri (1080p)",
     "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0032BVJ8.png?lock=720x540",
     "country": "IN",
@@ -1036,7 +826,7 @@
     "bandwidth": 4000128
   },
   {
-    "id": 5943,
+    "id": 3849,
     "name": "Filmex (Xumo) (1080p) [Geo-blocked]",
     "logo": "https://i.imgur.com/Hiz2OyC.png",
     "country": "MX",
@@ -1050,7 +840,7 @@
     "bandwidth": 6046040
   },
   {
-    "id": 5944,
+    "id": 3850,
     "name": "Filmex Clásico (1080p) [Geo-blocked]",
     "logo": "https://i.imgur.com/D3dj4mv.png",
     "country": "MX",
@@ -1064,7 +854,7 @@
     "bandwidth": 6046040
   },
   {
-    "id": 5945,
+    "id": 3851,
     "name": "FilmRise Westerns (720p)",
     "logo": "https://i.imgur.com/8j2npVc.png",
     "country": "US",
@@ -1078,7 +868,7 @@
     "bandwidth": 5000000
   },
   {
-    "id": 5946,
+    "id": 3852,
     "name": "Forensic Files (720p) [Geo-blocked]",
     "logo": "https://i.imgur.com/8j2npVc.png",
     "country": "US",
@@ -1092,7 +882,7 @@
     "bandwidth": 5000000
   },
   {
-    "id": 5947,
+    "id": 3853,
     "name": "FX Movie Channel (720p) [Not 24/7]",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/960px-FXM_Logo.svg.png",
     "country": "US",
@@ -1106,7 +896,7 @@
     "bandwidth": null
   },
   {
-    "id": 5948,
+    "id": 3854,
     "name": "GEM Bollywood",
     "logo": "https://i.imgur.com/2XASeBk.png",
     "country": "TR",
@@ -1120,7 +910,7 @@
     "bandwidth": null
   },
   {
-    "id": 5949,
+    "id": 3855,
     "name": "GEM Drama",
     "logo": "https://i.imgur.com/k2pGyRH.png",
     "country": "TR",
@@ -1134,7 +924,7 @@
     "bandwidth": null
   },
   {
-    "id": 5950,
+    "id": 3856,
     "name": "GEM Drama Plus",
     "logo": "https://gemgroup.tv/assets/images/channels/icon_7.png",
     "country": "TR",
@@ -1148,7 +938,7 @@
     "bandwidth": null
   },
   {
-    "id": 5951,
+    "id": 3857,
     "name": "GEM Film",
     "logo": "https://i.imgur.com/nrFz3LU.png",
     "country": "TR",
@@ -1162,7 +952,7 @@
     "bandwidth": null
   },
   {
-    "id": 5952,
+    "id": 3858,
     "name": "GEM Onyx",
     "logo": "https://i.imgur.com/gXRIAw4.png",
     "country": "TR",
@@ -1176,7 +966,7 @@
     "bandwidth": null
   },
   {
-    "id": 5953,
+    "id": 3859,
     "name": "GEM Pixel",
     "logo": "https://i.ibb.co/Q3tkbPrn/icon-27.png",
     "country": "TR",
@@ -1190,7 +980,7 @@
     "bandwidth": null
   },
   {
-    "id": 5954,
+    "id": 3860,
     "name": "GEM Rubix",
     "logo": "https://i.imgur.com/cDjOj58.png",
     "country": "TR",
@@ -1204,7 +994,7 @@
     "bandwidth": null
   },
   {
-    "id": 5955,
+    "id": 3861,
     "name": "GEM Rubix Plus",
     "logo": "https://gemgroup.tv/assets/images/channels/icon_31.png",
     "country": "TR",
@@ -1218,7 +1008,7 @@
     "bandwidth": null
   },
   {
-    "id": 5956,
+    "id": 3862,
     "name": "GEM Series",
     "logo": "https://i.imgur.com/M0WMDXm.png",
     "country": "TR",
@@ -1232,7 +1022,7 @@
     "bandwidth": null
   },
   {
-    "id": 5957,
+    "id": 3863,
     "name": "GEM Series Plus",
     "logo": "https://gemgroup.tv/assets/images/channels/icon_33.png",
     "country": "TR",
@@ -1246,7 +1036,7 @@
     "bandwidth": null
   },
   {
-    "id": 5958,
+    "id": 3864,
     "name": "GEM TV",
     "logo": "https://gemgroup.tv/assets/images/channels/icon_16.png",
     "country": "TR",
@@ -1260,7 +1050,7 @@
     "bandwidth": null
   },
   {
-    "id": 5959,
+    "id": 3865,
     "name": "GEM TV Plus",
     "logo": "https://gemgroup.tv/assets/images/channels/icon_17.png",
     "country": "TR",
@@ -1274,7 +1064,7 @@
     "bandwidth": null
   },
   {
-    "id": 5960,
+    "id": 3866,
     "name": "Ghost Hunters (1080p)",
     "logo": "https://i.imgur.com/KdBr6rG.png",
     "country": "US",
@@ -1288,7 +1078,7 @@
     "bandwidth": 6046040
   },
   {
-    "id": 5961,
+    "id": 3867,
     "name": "Gold Star",
     "logo": "",
     "country": "IR",
@@ -1302,7 +1092,7 @@
     "bandwidth": null
   },
   {
-    "id": 5962,
+    "id": 3868,
     "name": "Grand Cinema",
     "logo": "https://www.lyngsat.com/logo/tv/gg/grand-cinema.png",
     "country": "TR",
@@ -1316,7 +1106,7 @@
     "bandwidth": null
   },
   {
-    "id": 5963,
+    "id": 3869,
     "name": "Gravitas Movies (1080p)",
     "logo": "https://i.imgur.com/H2hD4vT.png",
     "country": "US",
@@ -1330,7 +1120,7 @@
     "bandwidth": 4715744
   },
   {
-    "id": 5964,
+    "id": 3870,
     "name": "GREAT! movies (1080p)",
     "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3709.png",
     "country": "UK",
@@ -1344,7 +1134,7 @@
     "bandwidth": 5903040
   },
   {
-    "id": 5965,
+    "id": 3871,
     "name": "GREAT! romance (1080p)",
     "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3643.png",
     "country": "UK",
@@ -1358,7 +1148,7 @@
     "bandwidth": 5903040
   },
   {
-    "id": 5966,
+    "id": 3872,
     "name": "Grjngo Western Movies (720p)",
     "logo": "https://i.imgur.com/wFqhK3p.png",
     "country": "DE",
@@ -1372,7 +1162,7 @@
     "bandwidth": 3072000
   },
   {
-    "id": 5967,
+    "id": 3873,
     "name": "GZT (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/GZT_logo.svg/960px-GZT_logo.svg.png",
     "country": "TR",
@@ -1383,24 +1173,10 @@
     "url": "https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8",
     "premium": false,
     "resolution": "1080p",
-    "bandwidth": 3620793
+    "bandwidth": 3603360
   },
   {
-    "id": 5968,
-    "name": "Hallmark Drama (720p) [Not 24/7]",
-    "logo": "",
-    "country": "US",
-    "countryName": "United States",
-    "flag": "🇺🇸",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://tvpass.org/live/HallmarkDrama/hd",
-    "premium": false,
-    "resolution": "720p",
-    "bandwidth": null
-  },
-  {
-    "id": 5969,
+    "id": 3874,
     "name": "Hallmark Movies & More (1080p) [Geo-blocked]",
     "logo": "",
     "country": "US",
@@ -1414,21 +1190,7 @@
     "bandwidth": 6431348
   },
   {
-    "id": 5970,
-    "name": "Hallmark Movies & Mysteries East (1080p) [Not 24/7]",
-    "logo": "https://i.imgur.com/GPRGA9C.png",
-    "country": "US",
-    "countryName": "United States",
-    "flag": "🇺🇸",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://tvpass.org/live/HallmarkMoviesMysteriesEast/hd",
-    "premium": false,
-    "resolution": "1080p",
-    "bandwidth": null
-  },
-  {
-    "id": 5971,
+    "id": 3875,
     "name": "Harbin Movie Channel",
     "logo": "https://www.tvchinese.net/uploads/tv/haerbin.jpg",
     "country": "CN",
@@ -1442,7 +1204,7 @@
     "bandwidth": 700000
   },
   {
-    "id": 5972,
+    "id": 3876,
     "name": "Haunt TV (1080p)",
     "logo": "https://images.pluto.tv/channels/63934c218ef524000757b122/colorLogoPNG.png",
     "country": "CA",
@@ -1456,7 +1218,7 @@
     "bandwidth": 6046040
   },
   {
-    "id": 5973,
+    "id": 3877,
     "name": "Hell's Kitchen (1080p)",
     "logo": "https://i.imgur.com/P9eT0O9.png",
     "country": "US",
@@ -1470,7 +1232,7 @@
     "bandwidth": 6046040
   },
   {
-    "id": 5974,
+    "id": 3878,
     "name": "Hero (720p) [Not 24/7]",
     "logo": "https://i.imgur.com/4t5JQLY.png",
     "country": "FI",
@@ -1484,7 +1246,7 @@
     "bandwidth": null
   },
   {
-    "id": 5975,
+    "id": 3879,
     "name": "Hollywood HD (1080p)",
     "logo": "https://i.imgur.com/1j7cT2I.png",
     "country": "RU",
@@ -1495,10 +1257,10 @@
     "url": "http://31.148.48.15/MGM_HD/index.m3u8",
     "premium": false,
     "resolution": "1080p",
-    "bandwidth": 3830000
+    "bandwidth": 3900000
   },
   {
-    "id": 5976,
+    "id": 3880,
     "name": "Home Plus",
     "logo": "https://www.lyngsat.com/logo/tv/hh/homeplus.png",
     "country": "IR",
@@ -1512,7 +1274,7 @@
     "bandwidth": null
   },
   {
-    "id": 5977,
+    "id": 3881,
     "name": "Homes Under The Hammer (720p)",
     "logo": "https://i.imgur.com/P5Haaln.png",
     "country": "US",
@@ -1526,7 +1288,7 @@
     "bandwidth": 3072000
   },
   {
-    "id": 5978,
+    "id": 3882,
     "name": "ICC Plus (1080p)",
     "logo": "https://www.lyngsat.com/logo/tv/ii/iccplus-us.png",
     "country": "US",
@@ -1540,7 +1302,7 @@
     "bandwidth": null
   },
   {
-    "id": 5979,
+    "id": 3883,
     "name": "IFC East (720p) [Not 24/7]",
     "logo": "https://i.imgur.com/bQdkyF9.png",
     "country": "US",
@@ -1554,7 +1316,7 @@
     "bandwidth": null
   },
   {
-    "id": 5980,
+    "id": 3884,
     "name": "Impossible Quiz Show (1080p)",
     "logo": "https://i.imgur.com/9EWffqx.png",
     "country": "US",
@@ -1568,7 +1330,7 @@
     "bandwidth": 4403200
   },
   {
-    "id": 5981,
+    "id": 3885,
     "name": "Inside Crime (1080p)",
     "logo": "https://i.imgur.com/wvQYWsj.png",
     "country": "US",
@@ -1582,7 +1344,7 @@
     "bandwidth": 5903040
   },
   {
-    "id": 5982,
+    "id": 3886,
     "name": "Jalsha Movies HD (1080p)",
     "logo": "https://i.imgur.com/25eWjX2.png",
     "country": "IN",
@@ -1593,10 +1355,10 @@
     "url": "http://103.229.254.25:7001/play/a0dt/index.m3u8",
     "premium": false,
     "resolution": "1080p",
-    "bandwidth": 3778000
+    "bandwidth": 3961000
   },
   {
-    "id": 5983,
+    "id": 3887,
     "name": "Judge Nosey (1080p)",
     "logo": "https://i.imgur.com/S4r98AB.png",
     "country": "US",
@@ -1610,7 +1372,7 @@
     "bandwidth": 6046040
   },
   {
-    "id": 5984,
+    "id": 3888,
     "name": "KidsFlix (1080p) [Not 24/7]",
     "logo": "https://i.imgur.com/4Pn0ADQ.png",
     "country": "US",
@@ -1624,7 +1386,7 @@
     "bandwidth": 2300000
   },
   {
-    "id": 5985,
+    "id": 3889,
     "name": "Kino 24 (720p)",
     "logo": "https://i.imgur.com/QAdDARF.png",
     "country": "RU",
@@ -1635,10 +1397,10 @@
     "url": "http://sirius.greenhosting.ru/Kino24Ru/video.m3u8",
     "premium": false,
     "resolution": "720p",
-    "bandwidth": 2050000
+    "bandwidth": 2360000
   },
   {
-    "id": 5986,
+    "id": 3890,
     "name": "Kinoteatr (1080p)",
     "logo": "https://i.imgur.com/emH1BgC.png",
     "country": "UZ",
@@ -1652,7 +1414,7 @@
     "bandwidth": null
   },
   {
-    "id": 5987,
+    "id": 3891,
     "name": "Komsan TV [Not 24/7]",
     "logo": "https://i.imgur.com/SNTf2r3.png",
     "country": "KH",
@@ -1666,7 +1428,7 @@
     "bandwidth": null
   },
   {
-    "id": 5988,
+    "id": 3892,
     "name": "Kuriakos Cine (1080p)",
     "logo": "https://i.imgur.com/CZViCwB.jpg",
     "country": "PT",
@@ -1680,7 +1442,7 @@
     "bandwidth": 30048000
   },
   {
-    "id": 5989,
+    "id": 3893,
     "name": "Latina Clasicos",
     "logo": "https://i.imgur.com/q0dAWyj.png",
     "country": "PE",
@@ -1691,38 +1453,10 @@
     "url": "https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8",
     "premium": false,
     "resolution": "1080p",
-    "bandwidth": 2283240
+    "bandwidth": 2801029
   },
   {
-    "id": 5990,
-    "name": "Lifetime Movies East (720p) [Not 24/7]",
-    "logo": "https://i.imgur.com/BWmqYTO.png",
-    "country": "US",
-    "countryName": "United States",
-    "flag": "🇺🇸",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://tvpass.org/live/LifetimeMoviesEast/hd",
-    "premium": false,
-    "resolution": "720p",
-    "bandwidth": null
-  },
-  {
-    "id": 5991,
-    "name": "Made in Hollywood",
-    "logo": "https://i.imgur.com/p16HNIM.png",
-    "country": "US",
-    "countryName": "United States",
-    "flag": "🇺🇸",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8",
-    "premium": false,
-    "resolution": "720p",
-    "bandwidth": 3072000
-  },
-  {
-    "id": 5992,
+    "id": 3894,
     "name": "Maraya (1080p)",
     "logo": "https://shahid.mbc.net/mediaObject/d089a559-4f41-4def-a786-f98fcfbf0464?height=auto&width=288&croppingPoint=&version=1&type=png",
     "country": "SA",
@@ -1736,7 +1470,7 @@
     "bandwidth": 9029218
   },
   {
-    "id": 5993,
+    "id": 3895,
     "name": "Maverick Black Cinema (1080p)",
     "logo": "https://images.fubo.tv/station_logos/maverick_black_cinema_c.png",
     "country": "US",
@@ -1750,7 +1484,7 @@
     "bandwidth": 4403200
   },
   {
-    "id": 5994,
+    "id": 3896,
     "name": "Max Movies (1080p)",
     "logo": "https://livetv.ashokadigital.net/upload/logo/1732168422_WhatsApp%20Image%202024-11-21%20at%2010.18.47%20AM.jpeg",
     "country": "IN",
@@ -1761,10 +1495,10 @@
     "url": "https://live.maxtn.in/maxmovies/maxmovies/index.m3u8",
     "premium": false,
     "resolution": "1080p",
-    "bandwidth": 3050000
+    "bandwidth": 2220000
   },
   {
-    "id": 5995,
+    "id": 3897,
     "name": "MBC Bollywood (1080p) [Geo-blocked]",
     "logo": "https://i.imgur.com/TTAGFHG.png",
     "country": "AE",
@@ -1778,7 +1512,7 @@
     "bandwidth": 2592000
   },
   {
-    "id": 5996,
+    "id": 3898,
     "name": "MBC Drama USA (1080p)",
     "logo": "https://i.imgur.com/g5PWnqp.png",
     "country": "US",
@@ -1792,7 +1526,7 @@
     "bandwidth": 2592000
   },
   {
-    "id": 5997,
+    "id": 3899,
     "name": "MBC Masr Drama (1080p)",
     "logo": "https://media0070.elcinema.com/tvguide/1399_1.png",
     "country": "SA",
@@ -1806,7 +1540,7 @@
     "bandwidth": 2592000
   },
   {
-    "id": 5998,
+    "id": 3900,
     "name": "MBC+ Drama (1080p)",
     "logo": "https://i.imgur.com/lxWdjXG.png",
     "country": "SA",
@@ -1820,7 +1554,7 @@
     "bandwidth": 2592000
   },
   {
-    "id": 5999,
+    "id": 3901,
     "name": "Mcleod's Daughters (1080p)",
     "logo": "https://i.imgur.com/q4BBDzw.png",
     "country": "US",
@@ -1834,7 +1568,7 @@
     "bandwidth": 6046040
   },
   {
-    "id": 6000,
+    "id": 3902,
     "name": "Mega Cine TV (1080p)",
     "logo": "https://www.vivalivetv.com/public/files/shows/0/1/2893-294x165-FFFFFF.jpg",
     "country": "DO",
@@ -1845,10 +1579,10 @@
     "url": "https://cnn.hostlagarto.com/megacinetv/playlist.m3u8",
     "premium": false,
     "resolution": "1080p",
-    "bandwidth": 2790000
+    "bandwidth": 2800000
   },
   {
-    "id": 6001,
+    "id": 3903,
     "name": "Memorias TV Film (720p) [Geo-blocked]",
     "logo": "https://i.imgur.com/vNfjW6Y.png",
     "country": "CO",
@@ -1862,7 +1596,7 @@
     "bandwidth": null
   },
   {
-    "id": 6002,
+    "id": 3904,
     "name": "Memorias TV Series (720p) [Geo-blocked]",
     "logo": "https://i.imgur.com/ohCSMhY.png",
     "country": "CO",
@@ -1876,7 +1610,7 @@
     "bandwidth": null
   },
   {
-    "id": 6003,
+    "id": 3905,
     "name": "Meta Film TV",
     "logo": "https://www.lyngsat.com/logo/tv/mm/meta-film-tv.png",
     "country": "IR",
@@ -1890,7 +1624,7 @@
     "bandwidth": null
   },
   {
-    "id": 6004,
+    "id": 3906,
     "name": "Midsomer Murders (1080p)",
     "logo": "https://i.imgur.com/VFqfyfY.png",
     "country": "US",
@@ -1904,7 +1638,7 @@
     "bandwidth": 4403200
   },
   {
-    "id": 6005,
+    "id": 3907,
     "name": "Mix Hollywood (1080p)",
     "logo": "https://i.imgur.com/1ENdbZn.png",
     "country": "EG",
@@ -1918,7 +1652,7 @@
     "bandwidth": 1000000
   },
   {
-    "id": 6006,
+    "id": 3908,
     "name": "Movie Bangla",
     "logo": "https://www.jagobd.com/wp-content/uploads/2016/02/moviebangla.jpg?x50681",
     "country": "BD",
@@ -1932,7 +1666,7 @@
     "bandwidth": null
   },
   {
-    "id": 6007,
+    "id": 3909,
     "name": "MovieBox (1080p)",
     "logo": "https://i.imgur.com/xeO1Zb4.png",
     "country": "MN",
@@ -1946,7 +1680,7 @@
     "bandwidth": null
   },
   {
-    "id": 6008,
+    "id": 3910,
     "name": "Movies Action (1080p)",
     "logo": "https://i.imgur.com/NIVhISa.png",
     "country": "SA",
@@ -1960,7 +1694,7 @@
     "bandwidth": 8913973
   },
   {
-    "id": 6009,
+    "id": 3911,
     "name": "Movies Thriller (1080p)",
     "logo": "https://i.imgur.com/JWihdcl.png",
     "country": "SA",
@@ -1974,7 +1708,7 @@
     "bandwidth": 8913207
   },
   {
-    "id": 6010,
+    "id": 3912,
     "name": "MovieSphere (1080p)",
     "logo": "https://i.imgur.com/h1ejU90.png",
     "country": "US",
@@ -1988,7 +1722,7 @@
     "bandwidth": 6046040
   },
   {
-    "id": 6011,
+    "id": 3913,
     "name": "MovieSphere AU (1080p)",
     "logo": "https://i.imgur.com/h1ejU90.png",
     "country": "US",
@@ -2002,7 +1736,7 @@
     "bandwidth": 6046040
   },
   {
-    "id": 6012,
+    "id": 3914,
     "name": "MovieSphere UK (1080p)",
     "logo": "https://i.imgur.com/h1ejU90.png",
     "country": "US",
@@ -2016,7 +1750,7 @@
     "bandwidth": 6046040
   },
   {
-    "id": 6013,
+    "id": 3915,
     "name": "MST3K (1080p)",
     "logo": "https://i.imgur.com/2LSdcga.png",
     "country": "US",
@@ -2030,7 +1764,7 @@
     "bandwidth": 6046040
   },
   {
-    "id": 6014,
+    "id": 3916,
     "name": "Mythbusters (1080p)",
     "logo": "https://i.imgur.com/wzzjvcH.png",
     "country": "US",
@@ -2044,7 +1778,7 @@
     "bandwidth": 6046040
   },
   {
-    "id": 6015,
+    "id": 3917,
     "name": "MyTime Movie Network (1080p)",
     "logo": "https://i.imgur.com/pw4NZK1.png",
     "country": "UK",
@@ -2058,7 +1792,7 @@
     "bandwidth": 6046040
   },
   {
-    "id": 6016,
+    "id": 3918,
     "name": "MyTime Movie Network (1080p)",
     "logo": "https://i.imgur.com/HYgxPVQ.png",
     "country": "US",
@@ -2072,7 +1806,7 @@
     "bandwidth": 6046040
   },
   {
-    "id": 6017,
+    "id": 3919,
     "name": "MyTime Movie Network Brazil (720p)",
     "logo": "https://i.imgur.com/aiGQtzI.png",
     "country": "BR",
@@ -2086,7 +1820,7 @@
     "bandwidth": 3572800
   },
   {
-    "id": 6018,
+    "id": 3920,
     "name": "MyTime Movie Network Mexico (720p)",
     "logo": "https://i.imgur.com/pw4NZK1.png",
     "country": "MX",
@@ -2100,7 +1834,7 @@
     "bandwidth": 3572800
   },
   {
-    "id": 6019,
+    "id": 3921,
     "name": "MyTime movie network Spain (1080p)",
     "logo": "https://i.imgur.com/pw4NZK1.png",
     "country": "ES",
@@ -2114,7 +1848,7 @@
     "bandwidth": 6046040
   },
   {
-    "id": 6020,
+    "id": 3922,
     "name": "Nash Bridges Channel (1080p) [Geo-blocked]",
     "logo": "https://images.pluto.tv/channels/666021cccb3ea10008406866/colorLogoPNG.png",
     "country": "XX",
@@ -2128,7 +1862,7 @@
     "bandwidth": 6046040
   },
   {
-    "id": 6021,
+    "id": 3923,
     "name": "Next HD (480p)",
     "logo": "https://i.imgur.com/c2rF3SS.png",
     "country": "PY",
@@ -2142,7 +1876,7 @@
     "bandwidth": 2520000
   },
   {
-    "id": 6022,
+    "id": 3924,
     "name": "Nihon Eiga Senmon (544p)",
     "logo": "https://i.imgur.com/B2wzA67.png",
     "country": "JP",
@@ -2153,10 +1887,10 @@
     "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23",
     "premium": false,
     "resolution": "Unknown",
-    "bandwidth": 1166181
+    "bandwidth": 1169380
   },
   {
-    "id": 6023,
+    "id": 3925,
     "name": "Nolly Africa HD (1080p) [Geo-blocked]",
     "logo": "https://i.imgur.com/IxtGpti.png",
     "country": "UK",
@@ -2170,7 +1904,7 @@
     "bandwidth": 4894400
   },
   {
-    "id": 6024,
+    "id": 3926,
     "name": "Nosey (1080p)",
     "logo": "https://i.imgur.com/i5doCQK.png",
     "country": "US",
@@ -2184,7 +1918,7 @@
     "bandwidth": 6046040
   },
   {
-    "id": 6025,
+    "id": 3927,
     "name": "OuterSphere (1080p)",
     "logo": "https://provider-static.plex.tv/epg/cms/production/f162df8b-6532-43fe-9202-83a658090651/OuterSphere_1500x1000_Logo_Dark_-_Chris_Connors__1_.png",
     "country": "US",
@@ -2198,7 +1932,7 @@
     "bandwidth": 6046040
   },
   {
-    "id": 6026,
+    "id": 3928,
     "name": "PBS Nature (1080p)",
     "logo": "https://i.imgur.com/Brry7cZ.png",
     "country": "US",
@@ -2212,7 +1946,7 @@
     "bandwidth": 6046040
   },
   {
-    "id": 6027,
+    "id": 3929,
     "name": "Persiana Cinema",
     "logo": "https://i.imgur.com/hgIro9r.png",
     "country": "FR",
@@ -2226,7 +1960,7 @@
     "bandwidth": null
   },
   {
-    "id": 6028,
+    "id": 3930,
     "name": "Persiana Family",
     "logo": "https://i.imgur.com/lMZsuWi.png",
     "country": "FR",
@@ -2240,7 +1974,7 @@
     "bandwidth": null
   },
   {
-    "id": 6029,
+    "id": 3931,
     "name": "Persiana Iranian",
     "logo": "https://i.imgur.com/vqrrpBi.png",
     "country": "FR",
@@ -2254,7 +1988,7 @@
     "bandwidth": null
   },
   {
-    "id": 6030,
+    "id": 3932,
     "name": "Persiana Korea",
     "logo": "https://i.imgur.com/si2ZnIA.png",
     "country": "FR",
@@ -2268,7 +2002,7 @@
     "bandwidth": null
   },
   {
-    "id": 6031,
+    "id": 3933,
     "name": "Persiana Plus",
     "logo": "https://i.imgur.com/0xttibX.png",
     "country": "FR",
@@ -2282,7 +2016,7 @@
     "bandwidth": null
   },
   {
-    "id": 6032,
+    "id": 3934,
     "name": "Persiana Series",
     "logo": "https://www.lyngsat.com/logo/tv/pp/persiana-series-fr.png",
     "country": "FR",
@@ -2296,7 +2030,7 @@
     "bandwidth": null
   },
   {
-    "id": 6033,
+    "id": 3935,
     "name": "Pitaara (720p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PITAARA/images/LOGO_HD/image.png",
     "country": "IN",
@@ -2310,7 +2044,7 @@
     "bandwidth": 3000000
   },
   {
-    "id": 6034,
+    "id": 3936,
     "name": "Polsat Film (1080p) [Not 24/7]",
     "logo": "https://i.imgur.com/wGH6shZ.png",
     "country": "PL",
@@ -2324,7 +2058,7 @@
     "bandwidth": null
   },
   {
-    "id": 6035,
+    "id": 3937,
     "name": "Polsat Seriale (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Polsat_Seriale_2021_gradient.svg/500px-Polsat_Seriale_2021_gradient.svg.png",
     "country": "PL",
@@ -2335,10 +2069,10 @@
     "url": "http://78.130.250.2:8023/play/a06h/index.m3u8",
     "premium": false,
     "resolution": "1080p",
-    "bandwidth": 8141000
+    "bandwidth": 5885000
   },
   {
-    "id": 6036,
+    "id": 3938,
     "name": "QTV-3",
     "logo": "https://www.tvchinese.net/uploads/tv/qdtv3.jpg",
     "country": "CN",
@@ -2352,7 +2086,21 @@
     "bandwidth": null
   },
   {
-    "id": 6037,
+    "id": 3939,
+    "name": "Rai Movie (576p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/0FjxXU9.png",
+    "country": "IT",
+    "countryName": "Italy",
+    "flag": "🇮🇹",
+    "language": "Unknown",
+    "category": "Movies",
+    "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002",
+    "premium": false,
+    "resolution": "Unknown",
+    "bandwidth": null
+  },
+  {
+    "id": 3940,
     "name": "Rakuten Top Movies UK (1080p)",
     "logo": "https://i.imgur.com/Meew6eX.png",
     "country": "ES",
@@ -2363,10 +2111,10 @@
     "url": "https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8",
     "premium": false,
     "resolution": "1080p",
-    "bandwidth": 4468363
+    "bandwidth": 4442019
   },
   {
-    "id": 6038,
+    "id": 3941,
     "name": "Rakuten TV Action Movies Finland (1080p)",
     "logo": "https://i.imgur.com/Meew6eX.png",
     "country": "ES",
@@ -2377,10 +2125,10 @@
     "url": "https://bca5a421a70c46ad911efd0a4767c4bf.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6075/master.m3u8",
     "premium": false,
     "resolution": "1080p",
-    "bandwidth": 4576558
+    "bandwidth": 4548541
   },
   {
-    "id": 6039,
+    "id": 3942,
     "name": "Rakuten TV Action Movies Germany (1080p)",
     "logo": "https://i.imgur.com/Meew6eX.png",
     "country": "ES",
@@ -2391,10 +2139,10 @@
     "url": "https://284824cf70404fdfb6ddf9349009c710.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6066/master.m3u8",
     "premium": false,
     "resolution": "1080p",
-    "bandwidth": 4663713
+    "bandwidth": 4504300
   },
   {
-    "id": 6040,
+    "id": 3943,
     "name": "Rakuten TV Action Movies Italy (1080p)",
     "logo": "https://i.imgur.com/Meew6eX.png",
     "country": "ES",
@@ -2405,10 +2153,10 @@
     "url": "https://87f2e2e5e7624e3bad85da1ca2ed31a7.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6067/master.m3u8",
     "premium": false,
     "resolution": "1080p",
-    "bandwidth": 4628789
+    "bandwidth": 4607597
   },
   {
-    "id": 6041,
+    "id": 3944,
     "name": "Rakuten TV Action Movies Spain (1080p)",
     "logo": "https://i.imgur.com/Meew6eX.png",
     "country": "ES",
@@ -2422,7 +2170,7 @@
     "bandwidth": 4485651
   },
   {
-    "id": 6042,
+    "id": 3945,
     "name": "Rakuten TV Action Movies UK (1080p)",
     "logo": "https://i.imgur.com/Meew6eX.png",
     "country": "ES",
@@ -2433,10 +2181,10 @@
     "url": "https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8",
     "premium": false,
     "resolution": "1080p",
-    "bandwidth": 4597386
+    "bandwidth": 4579991
   },
   {
-    "id": 6043,
+    "id": 3946,
     "name": "Rakuten TV Comedy Movies Finland (1080p)",
     "logo": "https://i.imgur.com/Meew6eX.png",
     "country": "ES",
@@ -2447,10 +2195,10 @@
     "url": "https://a300af98e00746e2acf2346f43e47bd1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6191/master.m3u8",
     "premium": false,
     "resolution": "1080p",
-    "bandwidth": 4584660
+    "bandwidth": 4504186
   },
   {
-    "id": 6044,
+    "id": 3947,
     "name": "Rakuten TV Comedy Movies Germany (1080p)",
     "logo": "https://i.imgur.com/Meew6eX.png",
     "country": "ES",
@@ -2461,10 +2209,10 @@
     "url": "https://ecac08c9e2214375b907d6825aaf9a01.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6182/master.m3u8",
     "premium": false,
     "resolution": "1080p",
-    "bandwidth": 4566792
+    "bandwidth": 4586021
   },
   {
-    "id": 6045,
+    "id": 3948,
     "name": "Rakuten TV Comedy Movies Italy (1080p)",
     "logo": "https://i.imgur.com/Meew6eX.png",
     "country": "ES",
@@ -2475,10 +2223,10 @@
     "url": "https://b8bc6c4b9be64bd6aeb3b92aa8521ed4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6184/master.m3u8",
     "premium": false,
     "resolution": "1080p",
-    "bandwidth": 4597513
+    "bandwidth": 4628193
   },
   {
-    "id": 6046,
+    "id": 3949,
     "name": "Rakuten TV Comedy Movies Spain (1080p)",
     "logo": "https://i.imgur.com/Meew6eX.png",
     "country": "ES",
@@ -2492,7 +2240,7 @@
     "bandwidth": 4633044
   },
   {
-    "id": 6047,
+    "id": 3950,
     "name": "Rakuten TV Comedy Movies UK (1080p)",
     "logo": "https://i.imgur.com/Meew6eX.png",
     "country": "ES",
@@ -2503,10 +2251,10 @@
     "url": "https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8",
     "premium": false,
     "resolution": "1080p",
-    "bandwidth": 4632759
+    "bandwidth": 4598363
   },
   {
-    "id": 6048,
+    "id": 3951,
     "name": "Rakuten TV Drama Movies Finland (1080p)",
     "logo": "https://i.imgur.com/Meew6eX.png",
     "country": "ES",
@@ -2517,10 +2265,10 @@
     "url": "https://d7e8ee3c924d4305a0c1840fe94c5d36.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6102/master.m3u8",
     "premium": false,
     "resolution": "1080p",
-    "bandwidth": 4526950
+    "bandwidth": 4585747
   },
   {
-    "id": 6049,
+    "id": 3952,
     "name": "Rakuten TV Drama Movies Germany (1080p)",
     "logo": "https://i.imgur.com/Meew6eX.png",
     "country": "ES",
@@ -2531,10 +2279,10 @@
     "url": "https://968754c2483045c1a9a7f677caec35b6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6096/master.m3u8",
     "premium": false,
     "resolution": "1080p",
-    "bandwidth": 4650958
+    "bandwidth": 4564774
   },
   {
-    "id": 6050,
+    "id": 3953,
     "name": "Rakuten TV Drama Movies Italy (1080p)",
     "logo": "https://i.imgur.com/Meew6eX.png",
     "country": "ES",
@@ -2545,10 +2293,10 @@
     "url": "https://f84e0b1628464fab846160df957f269e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6094/master.m3u8",
     "premium": false,
     "resolution": "1080p",
-    "bandwidth": 4587404
+    "bandwidth": 4582951
   },
   {
-    "id": 6051,
+    "id": 3954,
     "name": "Rakuten TV Drama Movies Spain (1080p)",
     "logo": "https://i.imgur.com/Meew6eX.png",
     "country": "ES",
@@ -2559,10 +2307,10 @@
     "url": "https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8",
     "premium": false,
     "resolution": "1080p",
-    "bandwidth": 4573026
+    "bandwidth": 4515464
   },
   {
-    "id": 6052,
+    "id": 3955,
     "name": "Rakuten TV Drama Movies UK (1080p)",
     "logo": "https://i.imgur.com/Meew6eX.png",
     "country": "ES",
@@ -2573,10 +2321,10 @@
     "url": "https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8",
     "premium": false,
     "resolution": "1080p",
-    "bandwidth": 4591122
+    "bandwidth": 4561160
   },
   {
-    "id": 6053,
+    "id": 3956,
     "name": "Rakuten TV Family Movies Finland (1080p)",
     "logo": "https://i.imgur.com/Meew6eX.png",
     "country": "ES",
@@ -2587,10 +2335,10 @@
     "url": "https://758ee983d61e400381dea6fa8154f4e0.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6227/master.m3u8",
     "premium": false,
     "resolution": "1080p",
-    "bandwidth": 4544748
+    "bandwidth": 4506806
   },
   {
-    "id": 6054,
+    "id": 3957,
     "name": "Rakuten TV Family Movies Germany (1080p)",
     "logo": "https://i.imgur.com/Meew6eX.png",
     "country": "ES",
@@ -2601,10 +2349,10 @@
     "url": "https://af230031eeac45f3b78d4f8a13265105.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6209/master.m3u8",
     "premium": false,
     "resolution": "1080p",
-    "bandwidth": 4443264
+    "bandwidth": 4575747
   },
   {
-    "id": 6055,
+    "id": 3958,
     "name": "Rakuten TV Family Movies Italy (1080p)",
     "logo": "https://i.imgur.com/Meew6eX.png",
     "country": "ES",
@@ -2615,10 +2363,10 @@
     "url": "https://3315fc3e7276420f895e19cf807dbee1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6215/master.m3u8",
     "premium": false,
     "resolution": "1080p",
-    "bandwidth": 4628811
+    "bandwidth": 4513675
   },
   {
-    "id": 6056,
+    "id": 3959,
     "name": "Rakuten TV Family Movies Spain (1080p)",
     "logo": "https://i.imgur.com/Meew6eX.png",
     "country": "ES",
@@ -2629,10 +2377,10 @@
     "url": "https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8",
     "premium": false,
     "resolution": "1080p",
-    "bandwidth": 4595496
+    "bandwidth": 4544442
   },
   {
-    "id": 6057,
+    "id": 3960,
     "name": "Rakuten TV Family Movies UK (1080p)",
     "logo": "https://i.imgur.com/Meew6eX.png",
     "country": "ES",
@@ -2643,10 +2391,10 @@
     "url": "https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8",
     "premium": false,
     "resolution": "1080p",
-    "bandwidth": 4609717
+    "bandwidth": 4553243
   },
   {
-    "id": 6058,
+    "id": 3961,
     "name": "Rakuten TV Nordic Films (1080p)",
     "logo": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/ff79e878-3eea-45fc-b0cd-55d6acce9b18-width200-quality90.jpeg",
     "country": "ES",
@@ -2657,10 +2405,10 @@
     "url": "https://4aa9ef08b70d4b0c8f3519c5950b1930.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6303/master.m3u8",
     "premium": false,
     "resolution": "1080p",
-    "bandwidth": 4609588
+    "bandwidth": 4605601
   },
   {
-    "id": 6059,
+    "id": 3962,
     "name": "Rakuten TV Top Movies Finland (1080p)",
     "logo": "https://i.imgur.com/Meew6eX.png",
     "country": "ES",
@@ -2671,10 +2419,10 @@
     "url": "https://1d1b0d4cb6ae4c31985d13221795695b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6057/master.m3u8",
     "premium": false,
     "resolution": "1080p",
-    "bandwidth": 4559616
+    "bandwidth": 4507002
   },
   {
-    "id": 6060,
+    "id": 3963,
     "name": "Rakuten TV Top Movies Germany (1080p)",
     "logo": "https://i.imgur.com/Meew6eX.png",
     "country": "ES",
@@ -2685,10 +2433,10 @@
     "url": "https://cbb622b29f5d43b598991f3fa19de291.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5985/master.m3u8",
     "premium": false,
     "resolution": "1080p",
-    "bandwidth": 4587583
+    "bandwidth": 4574962
   },
   {
-    "id": 6061,
+    "id": 3964,
     "name": "Rakuten TV Top Movies Italy (1080p)",
     "logo": "https://i.imgur.com/Meew6eX.png",
     "country": "ES",
@@ -2699,10 +2447,10 @@
     "url": "https://d4a4999341764c67a67e9ec9eb3790ab.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5984/master.m3u8",
     "premium": false,
     "resolution": "1080p",
-    "bandwidth": 4578860
+    "bandwidth": 4636210
   },
   {
-    "id": 6062,
+    "id": 3965,
     "name": "Rakuten TV Top Movies Spain (1080p)",
     "logo": "https://i.imgur.com/Meew6eX.png",
     "country": "ES",
@@ -2713,10 +2461,10 @@
     "url": "https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8",
     "premium": false,
     "resolution": "1080p",
-    "bandwidth": 4523202
+    "bandwidth": 4584251
   },
   {
-    "id": 6063,
+    "id": 3966,
     "name": "Revry Her (720p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/66698907bac4421ebc533646/images/logo_20231219_221435_68.png",
     "country": "US",
@@ -2730,7 +2478,7 @@
     "bandwidth": 3075600
   },
   {
-    "id": 6064,
+    "id": 3967,
     "name": "Roja Movies (1080p)",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/rojamovies.png",
     "country": "IN",
@@ -2741,10 +2489,10 @@
     "url": "https://stream.rojatv.cloud/rojatv/rojatv/index.m3u8",
     "premium": false,
     "resolution": "1080p",
-    "bandwidth": 4140000
+    "bandwidth": 4060000
   },
   {
-    "id": 6065,
+    "id": 3968,
     "name": "Romedy Now (576p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ROMEDY_NOW/images/LOGO_HD/image.png",
     "country": "IN",
@@ -2755,10 +2503,10 @@
     "url": "http://103.157.248.140:8000/play/a015/index.m3u8",
     "premium": false,
     "resolution": "Unknown",
-    "bandwidth": 1587000
+    "bandwidth": 1215000
   },
   {
-    "id": 6066,
+    "id": 3969,
     "name": "Roya Drama (1080p)",
     "logo": "https://i.imgur.com/V7I0MVf.png",
     "country": "JO",
@@ -2769,10 +2517,10 @@
     "url": "https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/drama/playlist.m3u8",
     "premium": false,
     "resolution": "1080p",
-    "bandwidth": 2289477
+    "bandwidth": 2309619
   },
   {
-    "id": 6067,
+    "id": 3970,
     "name": "RTL Crime HD (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5c/RTL_Crime_%28Netherlands%29_%282023%2C_stacked%29.svg",
     "country": "DE",
@@ -2786,7 +2534,7 @@
     "bandwidth": null
   },
   {
-    "id": 6068,
+    "id": 3971,
     "name": "Runtime Espanol (720p)",
     "logo": "https://i.imgur.com/OMQq19N.png",
     "country": "US",
@@ -2800,7 +2548,7 @@
     "bandwidth": 3071200
   },
   {
-    "id": 6069,
+    "id": 3972,
     "name": "Shemaroo Josh (720p)",
     "logo": "https://dtil.tmsimg.com/assets/GNLZZGG00297P3E.png?lock=720x540",
     "country": "IN",
@@ -2814,7 +2562,7 @@
     "bandwidth": 1628000
   },
   {
-    "id": 6070,
+    "id": 3973,
     "name": "Shubh Cinema TV (720p)",
     "logo": "https://i.imgur.com/RQhorAG.png",
     "country": "IN",
@@ -2828,7 +2576,7 @@
     "bandwidth": 2079642
   },
   {
-    "id": 6071,
+    "id": 3974,
     "name": "SL 1",
     "logo": "https://i.imgur.com/n9cuM2W.jpg",
     "country": "IR",
@@ -2842,7 +2590,7 @@
     "bandwidth": null
   },
   {
-    "id": 6072,
+    "id": 3975,
     "name": "SL 2",
     "logo": "https://i.imgur.com/BVuUx5R.jpg",
     "country": "IR",
@@ -2856,7 +2604,7 @@
     "bandwidth": null
   },
   {
-    "id": 6073,
+    "id": 3976,
     "name": "Sony One Blacklist (1080p)",
     "logo": "https://i.imgur.com/uJC8rXr.png",
     "country": "FR",
@@ -2870,7 +2618,7 @@
     "bandwidth": 4725981
   },
   {
-    "id": 6074,
+    "id": 3977,
     "name": "Sony One Favoris (1080p)",
     "logo": "https://i.imgur.com/RO4AM4b.png",
     "country": "FR",
@@ -2884,7 +2632,7 @@
     "bandwidth": 4725600
   },
   {
-    "id": 6075,
+    "id": 3978,
     "name": "Sony One Hits Action (1080p)",
     "logo": "https://i.imgur.com/pXsZEsR.png",
     "country": "FR",
@@ -2898,7 +2646,7 @@
     "bandwidth": 4725829
   },
   {
-    "id": 6076,
+    "id": 3979,
     "name": "Sony One Hits Comedie (1080p)",
     "logo": "https://i.imgur.com/8sHuxxS.png",
     "country": "FR",
@@ -2912,7 +2660,7 @@
     "bandwidth": 4726231
   },
   {
-    "id": 6077,
+    "id": 3980,
     "name": "Sony One Series Comedie (1080p)",
     "logo": "https://i.ibb.co/ns4Md77B/FR-FAST-Plex-Comedy-TV-logo-dark.png",
     "country": "FR",
@@ -2926,7 +2674,7 @@
     "bandwidth": 4726100
   },
   {
-    "id": 6078,
+    "id": 3981,
     "name": "Sony One Series Thriller (1080p)",
     "logo": "https://i.imgur.com/RVS8LDj.png",
     "country": "FR",
@@ -2940,7 +2688,7 @@
     "bandwidth": 4725600
   },
   {
-    "id": 6079,
+    "id": 3982,
     "name": "South Station (1080p)",
     "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800008CX_20260325T012316SQUARE.png",
     "country": "IN",
@@ -2954,7 +2702,7 @@
     "bandwidth": 4650800
   },
   {
-    "id": 6080,
+    "id": 3983,
     "name": "Sportoutdoor.tv",
     "logo": "https://i.imgur.com/fwOuEBl.png",
     "country": "XX",
@@ -2968,7 +2716,21 @@
     "bandwidth": 3072000
   },
   {
-    "id": 6081,
+    "id": 3984,
+    "name": "Star Channel Latin America South (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",
+    "country": "US",
+    "countryName": "United States",
+    "flag": "🇺🇸",
+    "language": "Unknown",
+    "category": "Movies",
+    "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-68.playlist.m3u8",
+    "premium": false,
+    "resolution": "720p",
+    "bandwidth": 4000000
+  },
+  {
+    "id": 3985,
     "name": "Star Gold 2 (576p)",
     "logo": "https://i.imgur.com/G0ZfzZr.png",
     "country": "IN",
@@ -2982,7 +2744,7 @@
     "bandwidth": null
   },
   {
-    "id": 6082,
+    "id": 3986,
     "name": "Star Gold HD (1080p)",
     "logo": "https://i.imgur.com/xC460sj.png",
     "country": "IN",
@@ -2993,10 +2755,10 @@
     "url": "http://103.229.254.25:7001/play/a0dd/index.m3u8",
     "premium": false,
     "resolution": "1080p",
-    "bandwidth": 3864000
+    "bandwidth": 3633000
   },
   {
-    "id": 6083,
+    "id": 3987,
     "name": "Star Gold Romance (576p)",
     "logo": "https://i.imgur.com/gSWv9U3.png",
     "country": "IN",
@@ -3010,7 +2772,7 @@
     "bandwidth": null
   },
   {
-    "id": 6084,
+    "id": 3988,
     "name": "Star Gold Select HD (1080p)",
     "logo": "https://i.imgur.com/U7eiuqv.png",
     "country": "IN",
@@ -3021,10 +2783,10 @@
     "url": "http://103.229.254.25:7001/play/a032/index.m3u8",
     "premium": false,
     "resolution": "1080p",
-    "bandwidth": 3211000
+    "bandwidth": 3111000
   },
   {
-    "id": 6085,
+    "id": 3989,
     "name": "Star Gold Thrills (576p)",
     "logo": "https://i.imgur.com/azqtpYh.png",
     "country": "IN",
@@ -3038,7 +2800,7 @@
     "bandwidth": null
   },
   {
-    "id": 6086,
+    "id": 3990,
     "name": "Star Movies HD (1080p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png",
     "country": "IN",
@@ -3049,10 +2811,10 @@
     "url": "http://103.157.248.140:8000/play/a01t/index.m3u8",
     "premium": false,
     "resolution": "1080p",
-    "bandwidth": 4350000
+    "bandwidth": 3924000
   },
   {
-    "id": 6087,
+    "id": 3991,
     "name": "Super TV (720p)",
     "logo": "https://i.imgur.com/hxF3yhw.png",
     "country": "IT",
@@ -3063,10 +2825,10 @@
     "url": "http://wms.shared.streamshow.it/supertv/mp4:supertv/playlist.m3u8",
     "premium": false,
     "resolution": "720p",
-    "bandwidth": 1664476
+    "bandwidth": 1628380
   },
   {
-    "id": 6088,
+    "id": 3992,
     "name": "Survivor (1080p)",
     "logo": "https://i.imgur.com/Zz9SgY8.png",
     "country": "US",
@@ -3080,7 +2842,7 @@
     "bandwidth": 6046040
   },
   {
-    "id": 6089,
+    "id": 3993,
     "name": "T2 Movies",
     "logo": "",
     "country": "IR",
@@ -3094,77 +2856,7 @@
     "bandwidth": null
   },
   {
-    "id": 6090,
-    "name": "Televisa Telenovelas",
-    "logo": "https://i.imgur.com/GaJIRN3.jpg",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8",
-    "premium": false,
-    "resolution": "720p",
-    "bandwidth": 3072000
-  },
-  {
-    "id": 6091,
-    "name": "Thalaa TV (1080p)",
-    "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/thalaa-tv.png",
-    "country": "IN",
-    "countryName": "India",
-    "flag": "🇮🇳",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2069c593-3c07-4d62-9d44-746be5c3a5d6/manifest.m3u8",
-    "premium": false,
-    "resolution": "1080p",
-    "bandwidth": 3299136
-  },
-  {
-    "id": 6092,
-    "name": "The Asylum (1080p)",
-    "logo": "https://i.imgur.com/dx9tt1B.png",
-    "country": "US",
-    "countryName": "United States",
-    "flag": "🇺🇸",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://d1i3g4v4xlfhad.cloudfront.net/The_Asylum.m3u8",
-    "premium": false,
-    "resolution": "1080p",
-    "bandwidth": 6709560
-  },
-  {
-    "id": 6093,
-    "name": "The Film Detective (720p)",
-    "logo": "https://i.imgur.com/yfOwmsP.png",
-    "country": "US",
-    "countryName": "United States",
-    "flag": "🇺🇸",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://cinedigm-entertainment-corp-thefilmdetective-1-us.ono.wurl.tv/playlist.m3u8",
-    "premium": false,
-    "resolution": "720p",
-    "bandwidth": 3072000
-  },
-  {
-    "id": 6094,
-    "name": "The Johnny Carson Show (720p)",
-    "logo": "https://i.imgur.com/KBTqpJ7.png",
-    "country": "US",
-    "countryName": "United States",
-    "flag": "🇺🇸",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://aegis-cloudfront-1.tubi.video/475550ae-8708-46a5-a7c3-54acb3d91480/playlist.m3u8",
-    "premium": false,
-    "resolution": "1080p",
-    "bandwidth": 6137560
-  },
-  {
-    "id": 6095,
+    "id": 3994,
     "name": "The Movie Club +2 (1080p)",
     "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN40000100Y_20260204T004058SQUARE.png",
     "country": "IN",
@@ -3178,7 +2870,7 @@
     "bandwidth": 4650800
   },
   {
-    "id": 6096,
+    "id": 3995,
     "name": "This Old House (1080p)",
     "logo": "https://i.imgur.com/nrVLyE6.png",
     "country": "US",
@@ -3192,7 +2884,7 @@
     "bandwidth": 4403200
   },
   {
-    "id": 6097,
+    "id": 3996,
     "name": "Tolly TV (1080p)",
     "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/aumnrs.png",
     "country": "IN",
@@ -3206,7 +2898,7 @@
     "bandwidth": 3299136
   },
   {
-    "id": 6098,
+    "id": 3997,
     "name": "True Crime Network+ (1080p) [Geo-blocked]",
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/True_Crime_Network_logo.svg/960px-True_Crime_Network_logo.svg.png",
     "country": "US",
@@ -3220,189 +2912,7 @@
     "bandwidth": 5702400
   },
   {
-    "id": 6099,
-    "name": "TV Series 1 As Panteras (480p)",
-    "logo": "https://i.imgur.com/Ff5mj0o.png",
-    "country": "BR",
-    "countryName": "Brazil",
-    "flag": "🇧🇷",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": null
-  },
-  {
-    "id": 6100,
-    "name": "TVCARiB Cinema (720p) [Not 24/7]",
-    "logo": "https://i.imgur.com/fvGlwKo.png",
-    "country": "SX",
-    "countryName": "SX",
-    "flag": "🇸🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://cdn.mycloudstream.io/hls/live/broadcast/l3vslw4i/index.m3u8",
-    "premium": false,
-    "resolution": "1080p",
-    "bandwidth": 1790800
-  },
-  {
-    "id": 6101,
-    "name": "TVE Star (576p)",
-    "logo": "https://i.ibb.co/j98NY8Mr/starcolor.png",
-    "country": "ES",
-    "countryName": "Spain",
-    "flag": "🇪🇸",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_576.m3u8",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": null
-  },
-  {
-    "id": 6102,
-    "name": "TVE Star HD (1080p)",
-    "logo": "https://i.ibb.co/j98NY8Mr/starcolor.png",
-    "country": "ES",
-    "countryName": "Spain",
-    "flag": "🇪🇸",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8",
-    "premium": false,
-    "resolution": "1080p",
-    "bandwidth": null
-  },
-  {
-    "id": 6103,
-    "name": "Universal Crime (1080p)",
-    "logo": "https://i.imgur.com/OwSlGMu.png",
-    "country": "US",
-    "countryName": "United States",
-    "flag": "🇺🇸",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://xumo-xumoent-vc-107-xmuvk.fast.nbcuni.com/live/master.m3u8",
-    "premium": false,
-    "resolution": "1080p",
-    "bandwidth": 5253600
-  },
-  {
-    "id": 6104,
-    "name": "Unsolved Mysteries (720p)",
-    "logo": "https://i.imgur.com/De3khrX.png",
-    "country": "US",
-    "countryName": "United States",
-    "flag": "🇺🇸",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://d31z96rdrmwfsp.cloudfront.net/master.m3u8",
-    "premium": false,
-    "resolution": "720p",
-    "bandwidth": 5000000
-  },
-  {
-    "id": 6105,
-    "name": "Vijay Super (576p)",
-    "logo": "https://i.imgur.com/3MWm9nD.png",
-    "country": "IN",
-    "countryName": "India",
-    "flag": "🇮🇳",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "http://ptuf.ridsys.in/riptv/live/VIJAY_SUPER/index.m3u8",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": null
-  },
-  {
-    "id": 6106,
-    "name": "WOWOW Cinema (544p)",
-    "logo": "https://i.imgur.com/Wx9fkCW.png",
-    "country": "JP",
-    "countryName": "Japan",
-    "flag": "🇯🇵",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 1147531
-  },
-  {
-    "id": 6107,
-    "name": "XPTV US (720p)",
-    "logo": "https://i.imgur.com/1m7kDmc.png",
-    "country": "ES",
-    "countryName": "Spain",
-    "flag": "🇪🇸",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8",
-    "premium": false,
-    "resolution": "720p",
-    "bandwidth": 2500000
-  },
-  {
-    "id": 6108,
-    "name": "Xtrema Accion",
-    "logo": "https://i.imgur.com/z5NwizH.png",
-    "country": "AR",
-    "countryName": "Argentina",
-    "flag": "🇦🇷",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 1
-  },
-  {
-    "id": 6109,
-    "name": "Xtrema Cine Clasico",
-    "logo": "https://i.imgur.com/j91M4Yf.png",
-    "country": "AR",
-    "countryName": "Argentina",
-    "flag": "🇦🇷",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 1
-  },
-  {
-    "id": 6110,
-    "name": "Xtrema Terror",
-    "logo": "https://i.imgur.com/FcaTUym.png",
-    "country": "AR",
-    "countryName": "Argentina",
-    "flag": "🇦🇷",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 1
-  },
-  {
-    "id": 6111,
-    "name": "ZB Cinema (720p)",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ZBCINEMA.png",
-    "country": "IN",
-    "countryName": "India",
-    "flag": "🇮🇳",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://server.zillarbarta.com/ZBCINEMA/index.m3u8",
-    "premium": false,
-    "resolution": "720p",
-    "bandwidth": 2850000
-  },
-  {
-    "id": 6112,
+    "id": 3998,
     "name": "Zee Cafe HD (1080p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CAFE_HD/images/LOGO_HD/LOGO_HD_image.png",
     "country": "IN",
@@ -3413,164 +2923,10 @@
     "url": "http://103.229.254.25:7001/play/a0cx/index.m3u8",
     "premium": false,
     "resolution": "1080p",
-    "bandwidth": 2899000
+    "bandwidth": 4240000
   },
   {
-    "id": 6113,
-    "name": "Zee Cinema HD (1080p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png",
-    "country": "IN",
-    "countryName": "India",
-    "flag": "🇮🇳",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "http://103.72.101.252:8080/live/165.m3u8",
-    "premium": false,
-    "resolution": "1080p",
-    "bandwidth": 2790000
-  },
-  {
-    "id": 6114,
-    "name": "Zee Cinemalu HD (1080p)",
-    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022ZEQ9.png?lock=720x540",
-    "country": "IN",
-    "countryName": "India",
-    "flag": "🇮🇳",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://mumbai-edge.smartplaytv.in/ZeeCinemaluHD/index.m3u8",
-    "premium": false,
-    "resolution": "1080p",
-    "bandwidth": 3680000
-  },
-  {
-    "id": 6115,
-    "name": "Zee Talkies HD (1080p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TALKIES/images/LOGO_HD/LOGO_HD_image.png",
-    "country": "IN",
-    "countryName": "India",
-    "flag": "🇮🇳",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "http://103.72.101.252:8080/live/1358.m3u8",
-    "premium": false,
-    "resolution": "1080p",
-    "bandwidth": 2790000
-  },
-  {
-    "id": 6116,
-    "name": "Zylo Cine Friki (1080p)",
-    "logo": "https://i.imgur.com/b3Ospym.png",
-    "country": "ES",
-    "countryName": "Spain",
-    "flag": "🇪🇸",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8",
-    "premium": false,
-    "resolution": "1080p",
-    "bandwidth": 5014136
-  },
-  {
-    "id": 6117,
-    "name": "Zylo Ciné Nanar (1080p)",
-    "logo": "https://i.imgur.com/YnUZd3W.png",
-    "country": "FR",
-    "countryName": "France",
-    "flag": "🇫🇷",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8",
-    "premium": false,
-    "resolution": "1080p",
-    "bandwidth": 4716800
-  },
-  {
-    "id": 6118,
-    "name": "Zylo Cine Western (1080p)",
-    "logo": "https://i.imgur.com/2UROzSc.png",
-    "country": "ES",
-    "countryName": "Spain",
-    "flag": "🇪🇸",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://d2nq34q0i1r3la.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awohw8g217ho8/CineWestern_ES.m3u8",
-    "premium": false,
-    "resolution": "1080p",
-    "bandwidth": 5046840
-  },
-  {
-    "id": 6119,
-    "name": "Zylo Ciné Western (1080p)",
-    "logo": "https://i.imgur.com/tteOFkL.png",
-    "country": "FR",
-    "countryName": "France",
-    "flag": "🇫🇷",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-rakutenuk/playlist.m3u8",
-    "premium": false,
-    "resolution": "1080p",
-    "bandwidth": 4716800
-  },
-  {
-    "id": 6120,
-    "name": "Zylo Emotion' L (1080p)",
-    "logo": "https://i.imgur.com/MP34aaj.png",
-    "country": "FR",
-    "countryName": "France",
-    "flag": "🇫🇷",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://rakutenaa-zylo-emotional-rakuten-r1zkm.amagi.tv/playlist/rakutenAA-zylo-emotional-rakuten/playlist.m3u8",
-    "premium": false,
-    "resolution": "1080p",
-    "bandwidth": 4716800
-  },
-  {
-    "id": 6121,
-    "name": "Zylo Fréquence Novelas (1080p)",
-    "logo": "https://i.imgur.com/fEjNAps.png",
-    "country": "FR",
-    "countryName": "France",
-    "flag": "🇫🇷",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8",
-    "premium": false,
-    "resolution": "1080p",
-    "bandwidth": 4716800
-  },
-  {
-    "id": 6122,
-    "name": "Zylo ScreamIN (1080p)",
-    "logo": "https://i.imgur.com/tGmKbil.png",
-    "country": "FR",
-    "countryName": "France",
-    "flag": "🇫🇷",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8",
-    "premium": false,
-    "resolution": "1080p",
-    "bandwidth": 4716800
-  },
-  {
-    "id": 6123,
-    "name": "Zylo Todo Novelas (1080p)",
-    "logo": "https://i.imgur.com/NuYwGok.png",
-    "country": "ES",
-    "countryName": "Spain",
-    "flag": "🇪🇸",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8",
-    "premium": false,
-    "resolution": "1080p",
-    "bandwidth": 5046840
-  },
-  {
-    "id": 6124,
+    "id": 3999,
     "name": "Дом Кино Премиум HD (1080p)",
     "logo": "https://i.imgur.com/rJpQtvK.png",
     "country": "RU",
@@ -3581,10 +2937,10 @@
     "url": "http://31.148.48.15/Dom_Kino_Premium_HD/index.m3u8",
     "premium": false,
     "resolution": "1080p",
-    "bandwidth": 7810000
+    "bandwidth": 7870000
   },
   {
-    "id": 6125,
+    "id": 4000,
     "name": "Кинеко (1080p)",
     "logo": "https://i.imgur.com/Otfvlmf.png",
     "country": "RU",
@@ -3595,24 +2951,10 @@
     "url": "http://31.148.48.15/Kineko_HD/index.m3u8",
     "premium": false,
     "resolution": "1080p",
-    "bandwidth": 5510000
+    "bandwidth": 5490000
   },
   {
-    "id": 6126,
-    "name": "Кино 1 International [Not 24/7]",
-    "logo": "https://i.imgur.com/zsCPLs4.png",
-    "country": "RU",
-    "countryName": "Russia",
-    "flag": "🇷🇺",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "http://kino-1.catcast.tv/content/38617/index.m3u8",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": null
-  },
-  {
-    "id": 6127,
+    "id": 4001,
     "name": "КИНО ТВ (720p)",
     "logo": "https://i.imgur.com/sMpamNO.png",
     "country": "RU",
@@ -3623,24 +2965,10 @@
     "url": "http://31.148.48.15/Kino_TV_HD/index.m3u8",
     "premium": false,
     "resolution": "720p",
-    "bandwidth": 5520000
+    "bandwidth": 5700000
   },
   {
-    "id": 6128,
-    "name": "Новый Русский (720p)",
-    "logo": "https://i.imgur.com/iuRSScH.png",
-    "country": "RU",
-    "countryName": "Russia",
-    "flag": "🇷🇺",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8",
-    "premium": false,
-    "resolution": "1080p",
-    "bandwidth": 5285068
-  },
-  {
-    "id": 6129,
+    "id": 4002,
     "name": "Русский Роман (1080p)",
     "logo": "https://i.imgur.com/cQN0P2B.png",
     "country": "RU",
@@ -3651,10 +2979,10 @@
     "url": "http://31.148.48.15/Russkiy_Roman_HD/index.m3u8",
     "premium": false,
     "resolution": "1080p",
-    "bandwidth": 5570000
+    "bandwidth": 5590000
   },
   {
-    "id": 6130,
+    "id": 4003,
     "name": "Сапфир (720p)",
     "logo": "https://i.imgur.com/NMOBvle.png",
     "country": "RU",
@@ -3665,1546 +2993,6 @@
     "url": "http://31.148.48.15/Sapfir_HD/index.m3u8",
     "premium": false,
     "resolution": "720p",
-    "bandwidth": 5740000
-  },
-  {
-    "id": 6131,
-    "name": "Сити Эдем ТелеНовелла [Not 24/7]",
-    "logo": "https://i.imgur.com/mT5liTh.png",
-    "country": "RU",
-    "countryName": "Russia",
-    "flag": "🇷🇺",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://cityeden.catcast.tv/content/46209/index.m3u8",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": null
-  },
-  {
-    "id": 6132,
-    "name": "Смотрим Честный Детектив (1080p)",
-    "logo": "https://cdn-st3.smotrim.ru/vh/pictures/svg/444/241/8.svg",
-    "country": "RU",
-    "countryName": "Russia",
-    "flag": "🇷🇺",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8",
-    "premium": false,
-    "resolution": "1080p",
-    "bandwidth": 11730000
-  },
-  {
-    "id": 6133,
-    "name": "Radio Italia Trend",
-    "logo": "https://i.imgur.com/ecpfn3e.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://radioitalia-samsungitaly.amagi.tv/playlist.m3u8",
-    "premium": false,
-    "resolution": "720p",
-    "bandwidth": 3572800
-  },
-  {
-    "id": 6134,
-    "name": "Trace Latina Ⓖ",
-    "logo": "https://i.imgur.com/GHbz8wd.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinait-samsungit/playlist.m3u8",
-    "premium": false,
-    "resolution": "1080p",
-    "bandwidth": 4716800
-  },
-  {
-    "id": 6135,
-    "name": "Trace Urban Ⓖ",
-    "logo": "https://i.imgur.com/PAx9qj8.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01131-tracetv-traceurbanit-samsungit/playlist.m3u8",
-    "premium": false,
-    "resolution": "1080p",
-    "bandwidth": 5288800
-  },
-  {
-    "id": 6136,
-    "name": "VH1+ Girl Power! – Pluto TV",
-    "logo": "https://i.imgur.com/Z4t6fdU.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/655208ff53fc9700084a834e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6137,
-    "name": "Car Chase – Pluto TV",
-    "logo": "https://i.imgur.com/F1jXkhK.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65a939fad77d450008863835/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6138,
-    "name": "Monster Jam – Pluto TV",
-    "logo": "https://i.imgur.com/jxGhINd.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65bce7f1d77d450008b3a430/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6139,
-    "name": "MacGyver – Pluto TV",
-    "logo": "https://i.imgur.com/bz9IwWU.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6245d4511358320007029cdf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6140,
-    "name": "Settimo Cielo – Pluto TV",
-    "logo": "https://i.imgur.com/TC5lo6r.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6245d3792792150007e20634/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6141,
-    "name": "BBC Drama – Pluto TV",
-    "logo": "https://i.imgur.com/CrAqXHJ.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62e7fa5ab5062e0007dcf97d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": true,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6142,
-    "name": "Le sorelle mcleod – Pluto TV",
-    "logo": "https://i.imgur.com/P310ryf.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60a2837f8154ab0007c4dcdf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6143,
-    "name": "Autostop per il cielo – Pluto TV",
-    "logo": "https://i.imgur.com/rpC1qk7.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/638f286445264d00084ec6dc/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6144,
-    "name": "Renegade – Pluto TV",
-    "logo": "https://i.imgur.com/Qsd9wuS.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/634926e4b51d2d00077819a2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6145,
-    "name": "Serie – Pluto TV",
-    "logo": "https://i.imgur.com/CHBhRZr.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60b9ff2722bfa400072676ef/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6146,
-    "name": "Film – Pluto TV",
-    "logo": "https://i.imgur.com/QeFc7F3.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa17fb9f4490007e6419a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6147,
-    "name": "Film Azione – Pluto TV",
-    "logo": "https://i.imgur.com/ZmAuf3H.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa20a2e7f270007c4878d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6148,
-    "name": "Film Thriller – Pluto TV",
-    "logo": "https://i.imgur.com/hIWMGRW.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa5e995132a00075f7005/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6149,
-    "name": "Horror – Pluto TV",
-    "logo": "https://i.imgur.com/zhoHRSE.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61c09e3ac210ed0007606620/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6150,
-    "name": "Western – Pluto TV",
-    "logo": "https://i.imgur.com/6vmgQBl.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62e7fb67478a5b0007e6c50c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6151,
-    "name": "Film Classici – Pluto TV",
-    "logo": "https://i.imgur.com/jNyZPLV.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa3c446d73500075f0e24/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6152,
-    "name": "Cinema Italiano – Pluto TV",
-    "logo": "https://i.imgur.com/drDX5DC.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa7d8359b270007861489/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6153,
-    "name": "Totò – Pluto TV",
-    "logo": "https://i.imgur.com/wLDteJZ.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65253f9881f942000833ccd5/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6154,
-    "name": "Film Romantici – Pluto TV",
-    "logo": "https://i.imgur.com/KxPsLG3.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa4a4cc92820007b663af/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6155,
-    "name": "Christmas – Pluto TV",
-    "logo": "https://i.imgur.com/tQ8lN30.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/612e05b885183d0007958101/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6156,
-    "name": "Film Drama – Pluto TV",
-    "logo": "https://i.imgur.com/X8jimKP.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa42b5c2b8f0007197529/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6157,
-    "name": "Film Commedia – Pluto TV",
-    "logo": "https://i.imgur.com/cSKaVHW.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa512d67fd900072323db/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6158,
-    "name": "East is East – Pluto TV",
-    "logo": "https://i.imgur.com/iPGv82f.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/654c955683595c00081d9d87/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6159,
-    "name": "The Asylum – Pluto TV",
-    "logo": "https://i.imgur.com/S2jlaiJ.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62e8d5369e48940007fc1dc1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6160,
-    "name": "Star Trek: The Original Series – Pluto TV",
-    "logo": "https://i.imgur.com/VnUrFqB.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6581a09edfed030008e12b39/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6161,
-    "name": "Doctor Who – Pluto TV",
-    "logo": "https://i.imgur.com/oewPc3b.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62e7f8db27ce19000732d1aa/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6162,
-    "name": "Sci-Fi – Pluto TV",
-    "logo": "https://i.imgur.com/5B94N8g.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61728bb9ee3773000840c1fa/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6163,
-    "name": "Mutant X – Pluto TV",
-    "logo": "https://i.imgur.com/SptYKFI.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60802c209a26320007c92ad5/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6164,
-    "name": "Andromeda – Pluto TV",
-    "logo": "https://i.imgur.com/2HFhwX9.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60802d37ee238e0007c94e64/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6165,
-    "name": "Sanctuary – Pluto TV",
-    "logo": "https://i.imgur.com/iYyijeJ.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb57d6c111bc0008fe2658/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6166,
-    "name": "Forensic Files – Pluto TV",
-    "logo": "https://i.imgur.com/hF5maH7.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64ec5cf50f73a800081310a5/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6167,
-    "name": "Squadra Speciale Cobra 11 – Pluto TV",
-    "logo": "https://i.imgur.com/HtDoAF2.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/625e6cc905e09f00073addee/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6168,
-    "name": "Crime – Pluto TV",
-    "logo": "https://i.imgur.com/WRMGIdb.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa777b907770007e5d05d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6169,
-    "name": "Mai dire sì – Pluto TV",
-    "logo": "https://i.imgur.com/yIMyhSN.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6349279ed5023700078f2bc2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6170,
-    "name": "Consulenze illegali – Pluto TV",
-    "logo": "https://i.imgur.com/AoOiYJX.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60b9dc99521a1400079bdfba/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6171,
-    "name": "Il banco dei pugni – Pluto TV",
-    "logo": "https://i.imgur.com/2Lj1sdf.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60e4507a06171800072339a3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6172,
-    "name": "Affare Fatto – Pluto TV",
-    "logo": "https://i.imgur.com/BuGkGsL.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64ec5c6644fe100009d114ae/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6173,
-    "name": "Catfish – Pluto TV",
-    "logo": "https://i.imgur.com/KajHKoP.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6093f9ed2c75660007322bb7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6174,
-    "name": "Il Testimone – Pluto TV",
-    "logo": "https://i.imgur.com/9NXL9kY.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61fbd3f0733df400076c9a2d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6175,
-    "name": "Case Pazzesche – Pluto TV",
-    "logo": "https://i.imgur.com/v8IDWwX.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/626bb07a58b8dd0007e9f36e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6176,
-    "name": "Geordie Shore – Pluto TV",
-    "logo": "https://i.imgur.com/y0fkHVi.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/619263ee9541940007d20d60/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6177,
-    "name": "Ex on the beach – Pluto TV",
-    "logo": "https://i.imgur.com/IONkdyk.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60940ebad67fd900072382db/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6178,
-    "name": "#Riccanza – Pluto TV",
-    "logo": "https://i.imgur.com/oBpcWEm.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/626baa721c279b00072cbedd/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6179,
-    "name": "The Hills – Pluto TV",
-    "logo": "https://i.imgur.com/9SRojGx.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6466007181844c000967f80a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6180,
-    "name": "Reality – Pluto TV",
-    "logo": "https://i.imgur.com/tPEOeTk.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61925f874b1ec000075e700a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6181,
-    "name": "Made – Pluto TV",
-    "logo": "https://i.imgur.com/dguQsJ7.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6304ee20112ca70007d8accc/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6182,
-    "name": "16 anni e incinta – Pluto TV",
-    "logo": "https://i.imgur.com/4BHrbP7.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60940a07d88ba90007b9cb71/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6183,
-    "name": "Teen Mom – Pluto TV",
-    "logo": "https://i.imgur.com/LdiTgeW.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62e7fc8c0d061100083946a9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6184,
-    "name": "Jersey Shore – Pluto TV",
-    "logo": "https://i.imgur.com/HIlmQEy.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb5767da71180008ace8fc/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6185,
-    "name": "Top Gear – Pluto TV",
-    "logo": "https://i.imgur.com/ZZo7DXQ.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64c109a4798def0008a6e03e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6186,
-    "name": "Pimp My Ride – Pluto TV",
-    "logo": "https://i.imgur.com/GC2wj2K.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/636a4eaf77279a0007f14861/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6187,
-    "name": "World poker tour – Pluto TV",
-    "logo": "https://i.imgur.com/AF1ON8u.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608016e446d73500075ea7e0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6188,
-    "name": "PFL MMA – Pluto TV",
-    "logo": "https://i.imgur.com/zScgLTv.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/654a299cab05240008a12639/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6189,
-    "name": "Robot Wars by MECH+ – Pluto TV",
-    "logo": "https://i.imgur.com/vGqha3k.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/651581ba6a84140008593586/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6190,
-    "name": "Ultimate Classic Wrestling – Pluto TV",
-    "logo": "https://i.imgur.com/QVN5qv3.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/652516fb7971630008a58e74/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6191,
-    "name": "The Boat Show – Pluto TV",
-    "logo": "https://i.imgur.com/aDcwRvj.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb58aa60bc8f0008caa8f8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6192,
-    "name": "Unbeaten Sports – Pluto TV",
-    "logo": "https://i.imgur.com/UAiv612.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64c3b106dac71b00080a26d2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": true,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6193,
-    "name": "Sport – Pluto TV",
-    "logo": "https://i.imgur.com/o2psAYW.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608030eff4b6f70007e1684c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6194,
-    "name": "Ridiculousness – Pluto TV",
-    "logo": "https://i.imgur.com/Yyj3Dm6.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61fbd721e5b49e00079bfedc/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6195,
-    "name": "Scherzi e risate – Pluto TV",
-    "logo": "https://i.imgur.com/kPxGzPI.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609404b0a8ec810007d8de9d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6196,
-    "name": "Fail army – Pluto TV",
-    "logo": "https://i.imgur.com/SqRDd2U.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608014d19a26320007c92ab6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6197,
-    "name": "People are awesome – Pluto TV",
-    "logo": "https://i.imgur.com/jn0OeWv.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608017cbe375e400070cc981/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6198,
-    "name": "The pet collective – Pluto TV",
-    "logo": "https://i.imgur.com/034PrSz.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60801317a0ccef00072aaf75/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6199,
-    "name": "Just for laughs – Pluto TV",
-    "logo": "https://i.imgur.com/VvEz0XX.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6093f48c95132a00075fd859/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6200,
-    "name": "South Park – Pluto TV",
-    "logo": "https://i.imgur.com/06wIdRV.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62bc1f502b70e3000706298e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6201,
-    "name": "Super! Spongebob – Pluto TV",
-    "logo": "https://i.imgur.com/vFiwODM.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6093f9281db477000759fce0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6202,
-    "name": "Due Fantagenitori – Pluto TV",
-    "logo": "https://i.imgur.com/HOvLgGK.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62b57a6752a0060008bc65cd/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6203,
-    "name": "Yu-Gi-Oh! – Pluto TV",
-    "logo": "https://i.imgur.com/rmzSC1C.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb82e24e83e70008ab735f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6204,
-    "name": "Anime – Pluto TV",
-    "logo": "https://i.imgur.com/rhVF0eC.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65b90daed77d450008a43345/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6205,
-    "name": "Avatar – Pluto TV",
-    "logo": "https://i.imgur.com/KDSStnJ.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/624da1cd2af90c0007c13205/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6206,
-    "name": "Inazuma Eleven – Pluto TV",
-    "logo": "https://i.imgur.com/2u1ic6X.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/612375086abc84000738fc03/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6207,
-    "name": "Super! Rugrats – Pluto TV",
-    "logo": "https://i.imgur.com/QqMQZte.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62e8ddbbaed0390007b258a6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6208,
-    "name": "Teenage Mutant Ninja Turtles – Pluto TV",
-    "logo": "https://i.imgur.com/bAnyjH7.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62619405c733e8000732d1fe/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": true,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6209,
-    "name": "Super! Icarly – Pluto TV",
-    "logo": "https://i.imgur.com/Mhl252U.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609401db8cf51c00084b592e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6210,
-    "name": "Super! Victorious – Pluto TV",
-    "logo": "https://i.imgur.com/ArXLm5R.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63c012504faf1c0007abfa93/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6211,
-    "name": "Super! Zoey 101 – Pluto TV",
-    "logo": "https://i.imgur.com/7FCQb1G.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6304ed62410a4c00083c0291/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6212,
-    "name": "Super! POP – Pluto TV",
-    "logo": "https://i.imgur.com/jlz31HP.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6093f7b5bb49b90007cecaad/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6213,
-    "name": "Super! Gaming – Pluto TV",
-    "logo": "https://i.imgur.com/UB7xHRQ.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/626192c51c279b00072c4553/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6214,
-    "name": "Super! Girl Power – Pluto TV",
-    "logo": "https://i.imgur.com/lzgp9GM.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/636a4ce50728d200072eebe7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6215,
-    "name": "Super! Intervallo – Pluto TV",
-    "logo": "https://i.imgur.com/jl7ZvE5.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62619544b1bf740007b4154b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6216,
-    "name": "Super! Spyders – Pluto TV",
-    "logo": "https://i.imgur.com/n89yuZh.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/655207f8b9c8a700082c7951/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6217,
-    "name": "Kids – Pluto TV",
-    "logo": "https://i.imgur.com/ybd7A0r.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62444e195d2ab7000861694b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6218,
-    "name": "Kids Ukraine – Pluto TV",
-    "logo": "https://i.imgur.com/MrIlypV.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/622a2d8da9d8210007d918c2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6219,
-    "name": "Super! Star – Pluto TV",
-    "logo": "https://i.imgur.com/YLtqPkF.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6093f6f8351eb0000754afb8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6220,
-    "name": "Super! Risate – Pluto TV",
-    "logo": "https://i.imgur.com/ALCbqZt.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb573ba99571000897135b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6221,
-    "name": "Super! Brothers and Sisters – Pluto TV",
-    "logo": "https://i.imgur.com/KSQvVye.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61925ea79541940007d20881/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6222,
-    "name": "VH1+ Music Legends – Pluto TV",
-    "logo": "https://i.imgur.com/kJ1MDVi.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62e8cc10ca869f00078efca8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6223,
-    "name": "VH1+ Back to 90's – Pluto TV",
-    "logo": "https://i.imgur.com/vGgh3cs.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6552085aab05240008b05f6c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6224,
-    "name": "VH1+ Rock! – Pluto TV",
-    "logo": "https://i.imgur.com/P1OCuFl.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/636a4173e34fd50007534542/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6225,
-    "name": "VH1+ Canzoni Italiane – Pluto TV",
-    "logo": "https://i.imgur.com/fpQBKP2.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63724270c7c2360007b170e8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6226,
-    "name": "VH1+ Hip Hop & Rap – Pluto TV",
-    "logo": "https://i.imgur.com/k1zQpiO.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6465fef47cb4b100086ee7bd/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6227,
-    "name": "Deluxe Lounge HD – Pluto TV",
-    "logo": "https://i.imgur.com/mTXgaKl.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6278ec6c33d85a00077ad814/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "720p",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6228,
-    "name": "K-Pop – Pluto TV",
-    "logo": "https://i.imgur.com/9Vp4rx2.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60c8b75fb0a68400074b86fc/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6229,
-    "name": "Fireplace – Pluto TV",
-    "logo": "https://i.imgur.com/csk1e76.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/612ce23f51cce000078eeed5/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6230,
-    "name": "Euronews – Pluto TV",
-    "logo": "https://i.imgur.com/Zpf2ykM.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b86ea479a4390007c6d5fc/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": true,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6231,
-    "name": "CBS News – Pluto TV",
-    "logo": "https://i.imgur.com/ApsK6Eq.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6231ec4b62cd1f0007093c7b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": true,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6232,
-    "name": "Cucina – Pluto TV",
-    "logo": "https://i.imgur.com/KsOhaOn.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa718a8ec810007d87fee/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6233,
-    "name": "Real life – Pluto TV",
-    "logo": "https://i.imgur.com/FpwqJYw.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60801976f92a750007a0699c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6234,
-    "name": "Naturescape – Pluto TV",
-    "logo": "https://i.imgur.com/CGB6qiV.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/610a9ebe8c2ac2000734776e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6235,
-    "name": "Natura – Pluto TV",
-    "logo": "https://i.imgur.com/Pc4gx12.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60802b37709d6b0007b0c549/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6236,
-    "name": "Storia – Pluto TV",
-    "logo": "https://i.imgur.com/w5BYvsz.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65253fdf3fd33c00080214a3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6237,
-    "name": "Documentari – Pluto TV",
-    "logo": "https://i.imgur.com/0jYrODf.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa8a5709d6b0007b132fe/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6238,
-    "name": "Viaggi – Pluto TV",
-    "logo": "https://i.imgur.com/3GJg0uy.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63c923944207be0007fd0887/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6239,
-    "name": "House of Docs – Pluto TV",
-    "logo": "https://i.imgur.com/pFLQ18m.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6536608b4f123d000876b78b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
-  },
-  {
-    "id": 6240,
-    "name": "Le vite degli altri – Pluto TV",
-    "logo": "https://i.imgur.com/nngMFi5.png",
-    "country": "XX",
-    "countryName": "International",
-    "flag": "🇽🇽",
-    "language": "Unknown",
-    "category": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/653660b4295b840008a70ba3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "premium": false,
-    "resolution": "Unknown",
-    "bandwidth": 3321280
+    "bandwidth": 5780000
   }
 ]
