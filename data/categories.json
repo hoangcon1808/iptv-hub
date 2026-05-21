@@ -1,43 +1,43 @@
 [
   {
     "name": "General",
-    "count": 2835
+    "count": 2864
   },
   {
     "name": "News",
-    "count": 507
+    "count": 505
   },
   {
     "name": "Religious",
-    "count": 421
+    "count": 428
   },
   {
     "name": "Music",
-    "count": 408
+    "count": 410
   },
   {
     "name": "Entertainment",
-    "count": 378
+    "count": 391
   },
   {
     "name": "Sports",
-    "count": 186
+    "count": 187
   },
   {
     "name": "Italy",
-    "count": 170
+    "count": 166
   },
   {
     "name": "Kids",
-    "count": 148
+    "count": 151
   },
   {
     "name": "Legislative",
-    "count": 96
+    "count": 97
   },
   {
     "name": "Education",
-    "count": 83
+    "count": 84
   },
   {
     "name": "Documentary",
@@ -45,39 +45,35 @@
   },
   {
     "name": "Culture",
-    "count": 60
+    "count": 62
+  },
+  {
+    "name": "Shop",
+    "count": 45
   },
   {
     "name": "Business",
     "count": 44
   },
   {
-    "name": "Shop",
-    "count": 43
+    "name": "Greece",
+    "count": 30
   },
   {
     "name": "Outdoor",
-    "count": 24
+    "count": 26
   },
   {
     "name": "Travel",
-    "count": 24
+    "count": 25
   },
   {
     "name": "Cooking",
-    "count": 20
-  },
-  {
-    "name": "Classic",
-    "count": 13
+    "count": 19
   },
   {
     "name": "Russia",
     "count": 13
-  },
-  {
-    "name": "Greece",
-    "count": 12
   },
   {
     "name": "Netherlands",
@@ -85,6 +81,14 @@
   },
   {
     "name": "Hungary",
+    "count": 11
+  },
+  {
+    "name": "Germany",
+    "count": 11
+  },
+  {
+    "name": "Classic",
     "count": 11
   },
   {
@@ -104,12 +108,16 @@
     "count": 8
   },
   {
-    "name": "Germany",
-    "count": 8
-  },
-  {
     "name": "Spain",
     "count": 7
+  },
+  {
+    "name": "Culture;Education",
+    "count": 6
+  },
+  {
+    "name": "UK",
+    "count": 6
   },
   {
     "name": "Chile",
@@ -124,15 +132,11 @@
     "count": 5
   },
   {
-    "name": "Culture;Education",
-    "count": 4
+    "name": "Belarus",
+    "count": 5
   },
   {
     "name": "North Macedonia",
-    "count": 4
-  },
-  {
-    "name": "UK",
     "count": 4
   },
   {
@@ -176,7 +180,7 @@
     "count": 3
   },
   {
-    "name": "Belarus",
+    "name": "Finland",
     "count": 3
   },
   {
@@ -205,6 +209,10 @@
   },
   {
     "name": "Czech Republic",
+    "count": 2
+  },
+  {
+    "name": "Egypt",
     "count": 2
   },
   {
@@ -288,6 +296,10 @@
     "count": 1
   },
   {
+    "name": "Hong Kong",
+    "count": 1
+  },
+  {
     "name": "Cyprus",
     "count": 1
   },
@@ -308,10 +320,6 @@
     "count": 1
   },
   {
-    "name": "Egypt",
-    "count": 1
-  },
-  {
     "name": "Azerbaijan",
     "count": 1
   },
@@ -320,7 +328,7 @@
     "count": 1
   },
   {
-    "name": "Costa Rica",
+    "name": "Faroe Islands",
     "count": 1
   },
   {
