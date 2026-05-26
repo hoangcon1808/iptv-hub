@@ -1,23 +1,23 @@
 [
   {
     "name": "General",
-    "count": 2759
+    "count": 2771
   },
   {
     "name": "News",
-    "count": 506
+    "count": 486
   },
   {
     "name": "Religious",
-    "count": 426
+    "count": 422
   },
   {
     "name": "Music",
-    "count": 395
+    "count": 403
   },
   {
     "name": "Entertainment",
-    "count": 390
+    "count": 372
   },
   {
     "name": "Sports",
@@ -25,74 +25,86 @@
   },
   {
     "name": "Italy",
-    "count": 167
+    "count": 180
   },
   {
     "name": "Kids",
-    "count": 140
+    "count": 143
   },
   {
     "name": "Legislative",
-    "count": 96
+    "count": 92
   },
   {
     "name": "Education",
-    "count": 81
+    "count": 83
   },
   {
     "name": "Documentary",
-    "count": 67
+    "count": 66
   },
   {
     "name": "Culture",
-    "count": 60
+    "count": 59
   },
   {
     "name": "Business",
-    "count": 44
+    "count": 40
   },
   {
     "name": "Shop",
-    "count": 43
+    "count": 40
+  },
+  {
+    "name": "Greece",
+    "count": 29
   },
   {
     "name": "Travel",
     "count": 26
   },
   {
-    "name": "Greece",
-    "count": 25
-  },
-  {
     "name": "Outdoor",
-    "count": 25
+    "count": 23
   },
   {
     "name": "Cooking",
-    "count": 19
+    "count": 18
   },
   {
-    "name": "Finland",
-    "count": 16
+    "name": "Classic",
+    "count": 15
+  },
+  {
+    "name": "Hungary",
+    "count": 12
+  },
+  {
+    "name": "Netherlands",
+    "count": 12
   },
   {
     "name": "Germany",
     "count": 11
   },
   {
-    "name": "Classic",
-    "count": 11
-  },
-  {
     "name": "Weather",
-    "count": 10
+    "count": 9
   },
   {
-    "name": "Hungary",
-    "count": 10
+    "name": "Russia",
+    "count": 9
+  },
+  {
+    "name": "Portugal",
+    "count": 8
   },
   {
     "name": "Auto",
+    "count": 7
+  },
+  {
+    "name": "Spain",
     "count": 7
   },
   {
@@ -104,12 +116,16 @@
     "count": 6
   },
   {
-    "name": "Portugal",
+    "name": "Iraq",
+    "count": 5
+  },
+  {
+    "name": "North Macedonia",
     "count": 5
   },
   {
     "name": "Bosnia And Herzegovina",
-    "count": 4
+    "count": 5
   },
   {
     "name": "Turkey",
@@ -132,15 +148,7 @@
     "count": 3
   },
   {
-    "name": "Spain",
-    "count": 3
-  },
-  {
     "name": "Canada",
-    "count": 3
-  },
-  {
-    "name": "Netherlands",
     "count": 3
   },
   {
@@ -152,7 +160,15 @@
     "count": 3
   },
   {
-    "name": "Russia",
+    "name": "Luxembourg",
+    "count": 3
+  },
+  {
+    "name": "Serbia",
+    "count": 3
+  },
+  {
+    "name": "Korea",
     "count": 3
   },
   {
@@ -160,11 +176,19 @@
     "count": 3
   },
   {
-    "name": "Qatar",
-    "count": 2
+    "name": "Finland",
+    "count": 3
   },
   {
-    "name": "Iraq",
+    "name": "Ireland",
+    "count": 3
+  },
+  {
+    "name": "UK",
+    "count": 3
+  },
+  {
+    "name": "Brazil",
     "count": 2
   },
   {
@@ -188,15 +212,7 @@
     "count": 2
   },
   {
-    "name": "Luxembourg",
-    "count": 2
-  },
-  {
     "name": "Iceland",
-    "count": 2
-  },
-  {
-    "name": "Korea",
     "count": 2
   },
   {
@@ -208,7 +224,19 @@
     "count": 2
   },
   {
-    "name": "Brazil",
+    "name": "Indonesia",
+    "count": 2
+  },
+  {
+    "name": "日本 / Japan",
+    "count": 2
+  },
+  {
+    "name": "Sweden",
+    "count": 2
+  },
+  {
+    "name": "Switzerland",
     "count": 2
   },
   {
@@ -236,10 +264,6 @@
     "count": 1
   },
   {
-    "name": "North Macedonia",
-    "count": 1
-  },
-  {
     "name": "Culture;Travel",
     "count": 1
   },
@@ -253,10 +277,6 @@
   },
   {
     "name": "Auto;Travel",
-    "count": 1
-  },
-  {
-    "name": "Cooking;Shop",
     "count": 1
   },
   {
@@ -316,7 +336,19 @@
     "count": 1
   },
   {
-    "name": "Ireland",
+    "name": "India",
+    "count": 1
+  },
+  {
+    "name": "Latvia",
+    "count": 1
+  },
+  {
+    "name": "Mexico",
+    "count": 1
+  },
+  {
+    "name": "Qatar",
     "count": 1
   }
 ]
