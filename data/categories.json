@@ -1,43 +1,43 @@
 [
   {
     "name": "General",
-    "count": 2519
+    "count": 2457
   },
   {
     "name": "News",
-    "count": 631
-  },
-  {
-    "name": "Entertainment",
-    "count": 524
+    "count": 586
   },
   {
     "name": "Music",
-    "count": 523
+    "count": 498
+  },
+  {
+    "name": "Entertainment",
+    "count": 492
   },
   {
     "name": "Religious",
-    "count": 482
+    "count": 436
   },
   {
     "name": "Sports",
-    "count": 291
+    "count": 273
   },
   {
     "name": "Kids",
-    "count": 234
+    "count": 218
   },
   {
     "name": "Italy",
-    "count": 219
+    "count": 205
   },
   {
     "name": "Documentary",
-    "count": 133
+    "count": 125
   },
   {
     "name": "Legislative",
-    "count": 91
+    "count": 87
   },
   {
     "name": "Education",
@@ -45,19 +45,15 @@
   },
   {
     "name": "Culture",
-    "count": 75
-  },
-  {
-    "name": "Shop",
-    "count": 46
-  },
-  {
-    "name": "Business",
-    "count": 45
+    "count": 65
   },
   {
     "name": "Outdoor",
-    "count": 41
+    "count": 38
+  },
+  {
+    "name": "Business",
+    "count": 36
   },
   {
     "name": "Mongolia",
@@ -65,19 +61,23 @@
   },
   {
     "name": "Greece",
-    "count": 34
+    "count": 33
   },
   {
-    "name": "Travel",
-    "count": 30
-  },
-  {
-    "name": "Cooking",
-    "count": 30
+    "name": "Shop",
+    "count": 32
   },
   {
     "name": "Ukraine",
     "count": 29
+  },
+  {
+    "name": "Travel",
+    "count": 28
+  },
+  {
+    "name": "Cooking",
+    "count": 25
   },
   {
     "name": "Spain",
@@ -93,7 +93,7 @@
   },
   {
     "name": "Auto",
-    "count": 16
+    "count": 15
   },
   {
     "name": "USA",
@@ -101,7 +101,7 @@
   },
   {
     "name": "Hungary",
-    "count": 13
+    "count": 14
   },
   {
     "name": "Weather",
@@ -121,11 +121,15 @@
   },
   {
     "name": "Germany",
-    "count": 12
+    "count": 11
+  },
+  {
+    "name": "Portugal",
+    "count": 11
   },
   {
     "name": "Russia",
-    "count": 12
+    "count": 10
   },
   {
     "name": "Romania",
@@ -136,15 +140,7 @@
     "count": 9
   },
   {
-    "name": "Chile",
-    "count": 9
-  },
-  {
-    "name": "日本 / Japan",
-    "count": 9
-  },
-  {
-    "name": "Portugal",
+    "name": "China",
     "count": 9
   },
   {
@@ -152,31 +148,15 @@
     "count": 8
   },
   {
-    "name": "China",
-    "count": 7
+    "name": "Chile",
+    "count": 8
   },
   {
     "name": "Denmark",
     "count": 7
   },
   {
-    "name": "Bosnia And Herzegovina",
-    "count": 7
-  },
-  {
-    "name": "Slovakia",
-    "count": 7
-  },
-  {
-    "name": "Qatar",
-    "count": 6
-  },
-  {
     "name": "North Macedonia",
-    "count": 6
-  },
-  {
-    "name": "Korea",
     "count": 6
   },
   {
@@ -184,7 +164,7 @@
     "count": 6
   },
   {
-    "name": "Czech Republic",
+    "name": "Turkey",
     "count": 6
   },
   {
@@ -200,6 +180,10 @@
     "count": 5
   },
   {
+    "name": "Qatar",
+    "count": 5
+  },
+  {
     "name": "Argentina",
     "count": 5
   },
@@ -208,7 +192,7 @@
     "count": 5
   },
   {
-    "name": "Croatia",
+    "name": "Venezuela",
     "count": 5
   },
   {
@@ -220,11 +204,19 @@
     "count": 5
   },
   {
-    "name": "Turkey",
+    "name": "Bosnia And Herzegovina",
+    "count": 5
+  },
+  {
+    "name": "Brazil",
     "count": 5
   },
   {
     "name": "Albania",
+    "count": 5
+  },
+  {
+    "name": "日本 / Japan",
     "count": 5
   },
   {
@@ -236,7 +228,7 @@
     "count": 4
   },
   {
-    "name": "Bulgaria",
+    "name": "Croatia",
     "count": 4
   },
   {
@@ -244,11 +236,11 @@
     "count": 4
   },
   {
-    "name": "Canada",
+    "name": "Cyprus",
     "count": 4
   },
   {
-    "name": "Cyprus",
+    "name": "Czech Republic",
     "count": 4
   },
   {
@@ -260,6 +252,10 @@
     "count": 4
   },
   {
+    "name": "Slovakia",
+    "count": 4
+  },
+  {
     "name": "Saudi Arabia",
     "count": 3
   },
@@ -268,15 +264,19 @@
     "count": 3
   },
   {
-    "name": "Venezuela",
-    "count": 3
-  },
-  {
     "name": "Egypt",
     "count": 3
   },
   {
+    "name": "Peru",
+    "count": 3
+  },
+  {
     "name": "Outdoor;Travel",
+    "count": 3
+  },
+  {
+    "name": "Canada",
     "count": 3
   },
   {
@@ -293,6 +293,10 @@
   },
   {
     "name": "Costa Rica",
+    "count": 2
+  },
+  {
+    "name": "Korea",
     "count": 2
   },
   {
@@ -316,15 +320,7 @@
     "count": 2
   },
   {
-    "name": "Peru",
-    "count": 2
-  },
-  {
     "name": "Nigeria",
-    "count": 2
-  },
-  {
-    "name": "Brazil",
     "count": 2
   },
   {
